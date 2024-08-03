@@ -1,0 +1,13 @@
+name = "Dracula Theme"
+filename = "Dracula v2.0 B4 GUI Scale 4 MC 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qroLrKBg/versions/eLww971O/Dracula%20v2.0%20B4%20GUI%20Scale%204%20MC%201.21.zip"
+hash-format = "sha1"
+hash = "a1414304db01642e8567ccbd4ecaef91331ecc3b"
+
+[update]
+[update.modrinth]
+mod-id = "qroLrKBg"
+version = "eLww971O"

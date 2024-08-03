@@ -1,0 +1,16 @@
+name = "CookieCraft"
+author = "ArkhamCookie"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4c2c774746e4988ca88e39b3428ac34d0804af935ae6f3e1dd3bd20b8b2759f7"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = ["1.21"]
