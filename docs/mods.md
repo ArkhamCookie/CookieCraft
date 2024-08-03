@@ -1,0 +1,17 @@
+# Mods Included
+
+- [BetterF3](https://modrinth.com/mod/betterf3)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+
+## Libraries
+
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
