@@ -6,6 +6,7 @@
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [No Telemetry](https://modrinth.com/mod/no-telemetry)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
