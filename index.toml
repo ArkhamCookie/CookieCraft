@@ -42,7 +42,7 @@ hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "d6da394567a23128888c3e81255245b2c712138680255272fd5bf1f5f41faf57"
+hash = "0819cb247fb09d889cddce7fa2330f573618321d2ef5821a734be6630fc96291"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
