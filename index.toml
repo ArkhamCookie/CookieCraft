@@ -54,7 +54,7 @@ hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "0f3c72464895ea910d6d3e8ecea74a0a2a0d3100040ee0fabe7c5b0303d21bf1"
+hash = "037f35b5f4f85d92b550e47aad0a410cc1e4c0f7fe6db5537a6cfdfd15c3baf3"
 
 [[files]]
 file = "config/yosbr/options.txt"
