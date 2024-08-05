@@ -96,11 +96,6 @@ hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "f032f1cd6bdfc1fa52553761f2da0a50ea306d4d5d42091cfdc4b1526a26e692"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true

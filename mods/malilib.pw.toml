@@ -1,7 +1,0 @@
-name = "malilib"
-filename = "1.21-0.20.2"
-
-[download]
-url = "https://github.com/sakura-ryoko/malilib/releases/tag/1.21-0.20.2"
-hash-format = "sha256"
-hash = "8817c120224fcc5d1a7a0367355eecc5093c92666a2ddae10ab49de8ec7ba4de"
