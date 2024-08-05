@@ -1,1 +1,4 @@
 build
+
+# Exclude exported Modrinth packs
+*.mrpack
