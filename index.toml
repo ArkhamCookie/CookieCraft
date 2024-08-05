@@ -1,6 +1,70 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "11222c38ce6905815fd757473b3c478fb46acc79fa2e5133105bbed298b46b0b"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "a8fee990113ee895eb39ea941e6686820109a4ec6d22140e4c3c488780272a04"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "3c9351337f023bf6add1f346eed73ae82408753f75b32b934a891ab72b00b10b"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "d556c0a15d025090c0b57d15126be718efe328854cc2cc0385ab9c64676d1c91"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "78ac3910c6c07428c2f1703c4baa2719ab24692c92bd7fbb6dbbf943216a7ab0"
+
+[[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "85b5b12900864c01573b4b5984ce311554e149dae17984adab0a05273d7bb652"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "0f3c72464895ea910d6d3e8ecea74a0a2a0d3100040ee0fabe7c5b0303d21bf1"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "354c191323151d2e1bb367dfa0878c48177b29f5ea434b0642644b5a1703e20e"
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
