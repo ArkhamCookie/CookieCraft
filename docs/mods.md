@@ -17,6 +17,7 @@
 
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
+- [MaLiLib](https://github.com/sakura-ryoko/malilib) [^1]
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 
 ---
