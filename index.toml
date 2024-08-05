@@ -41,6 +41,10 @@ file = "config/yosbr/config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "d6da394567a23128888c3e81255245b2c712138680255272fd5bf1f5f41faf57"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "85b5b12900864c01573b4b5984ce311554e149dae17984adab0a05273d7bb652"
 
@@ -98,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "702034dbed70640cc6a634dd2387264aa5beb77fceecc918a4ad68acbdd52cf1"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e22e435da08b6087c4418a749583eea7185ad8c4e0eb82f9c60b3472332f9b47"
 metafile = true
 
 [[files]]
