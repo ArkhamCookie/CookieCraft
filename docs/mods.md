@@ -10,6 +10,7 @@
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Libraries
 

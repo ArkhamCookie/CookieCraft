@@ -130,6 +130,11 @@ hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
 file = "resourcepacks/dracula-theme.pw.toml"
 hash = "19aa095adb06b1ad4c0921d1dd6bd2e0bdb82a55a7f2cc523328f835215abd31"
 metafile = true
