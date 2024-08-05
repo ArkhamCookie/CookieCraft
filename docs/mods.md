@@ -10,6 +10,7 @@
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+- [Tweakeroo](https://github.com/sakura-ryoko/tweakeroo) [^1]
 - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Libraries
@@ -17,3 +18,7 @@
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+
+---
+
+[^1]: Using sakura-ryoko's fork
