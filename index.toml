@@ -29,10 +29,6 @@ file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "d556c0a15d025090c0b57d15126be718efe328854cc2cc0385ab9c64676d1c91"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
-
-[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
@@ -47,10 +43,6 @@ hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "85b5b12900864c01573b4b5984ce311554e149dae17984adab0a05273d7bb652"
-
-[[files]]
-file = "config/yosbr/config/sodium-mixins.properties"
-hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
