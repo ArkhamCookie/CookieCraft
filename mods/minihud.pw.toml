@@ -1,7 +1,0 @@
-name = "Minihud"
-filename = "minihud-fabric-1.21-0.31.999-sakura.20.jar"
-
-[download]
-url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21-sakura.20/minihud-fabric-1.21-0.31.999-sakura.20.jar"
-hash-format = "sha256"
-hash = "36b9560d902f6a845ecf53f635b2b139f80eb32a7deb3de743ac24424e95d3c7"

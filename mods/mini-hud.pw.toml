@@ -1,0 +1,7 @@
+name = "Mini HUD"
+filename = "minihud-fabric-1.21-0.31.999-sakura.23.jar"
+
+[download]
+url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21-sakura.23/minihud-fabric-1.21-0.31.999-sakura.23.jar"
+hash-format = "sha256"
+hash = "fb04a3c682c59dadf70e4c38ab6acc469d6f64a7c0a75a3d24c65f0d66eac4fb"
