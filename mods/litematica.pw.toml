@@ -1,0 +1,7 @@
+name = "Litematica"
+filename = "litematica-fabric-1.21-0.19.1.jar"
+
+[download]
+url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-0.19.1/litematica-fabric-1.21-0.19.1.jar"
+hash-format = "sha256"
+hash = "2ed986264464e9d003692b0508bfb76d5466a316242262c828fb13b8dfe4c126"
