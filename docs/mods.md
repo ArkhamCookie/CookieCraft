@@ -1,6 +1,7 @@
 # Mods Included
 
 - [BetterF3](https://modrinth.com/mod/betterf3)
+- [Bobby](https://modrinth.com/mod/bobby)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
