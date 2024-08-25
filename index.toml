@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "63118fa04b09c329b9c43339c3e4d282102404be89db6c9d734c9cce1fba1785"
 
 [[files]]
+file = "config/yosbr/bobby.conf"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "11222c38ce6905815fd757473b3c478fb46acc79fa2e5133105bbed298b46b0b"
 
@@ -62,7 +66,7 @@ hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "037f35b5f4f85d92b550e47aad0a410cc1e4c0f7fe6db5537a6cfdfd15c3baf3"
+hash = "17d8a008c32c6fdb9e833707657f01f24ea4eefe0a38d8b5e7888f1cd2d45ad1"
 
 [[files]]
 file = "config/yosbr/options.txt"
