@@ -57,6 +57,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "85b5b12900864c01573b4b5984ce311554e149dae17984adab0a05273d7bb652"
 
 [[files]]
+file = "config/yosbr/config/simpleshulkerpreview.json"
+hash = "63a14f44f12cec1fafc5b7e1951c0affdb3bc3079480109f95538d6a05beee32"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "48502f0a9197fd8cfb27428a449bc777e62f147195e9527abc7fa887138c03c0"
 
