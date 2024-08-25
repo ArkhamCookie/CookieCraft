@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "63118fa04b09c329b9c43339c3e4d282102404be89db6c9d734c9cce1fba1785"
 
 [[files]]
-file = "config/yosbr/bobby.conf"
-hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "11222c38ce6905815fd757473b3c478fb46acc79fa2e5133105bbed298b46b0b"
 
@@ -27,6 +23,10 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 [[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "a8fee990113ee895eb39ea941e6686820109a4ec6d22140e4c3c488780272a04"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
