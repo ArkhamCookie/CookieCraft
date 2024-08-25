@@ -1,9 +1,11 @@
 # Mods Included
 
 - [BetterF3](https://modrinth.com/mod/betterf3)
+- [Bobby](https://modrinth.com/mod/bobby)
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Lithium](https://modrinth.com/mod/lithium)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
