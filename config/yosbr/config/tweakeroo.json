@@ -58,7 +58,7 @@
     "hotbarSwapOverlayOffsetY": 4,
     "itemSwapDurabilityThreshold": 20,
     "mapPreviewSize": 160,
-    "periodicAttackInterval": 20,
+    "periodicAttackInterval": 35,
     "periodicUseInterval": 20,
     "periodicHoldAttackDuration": 20,
     "periodicHoldAttackInterval": 20,
