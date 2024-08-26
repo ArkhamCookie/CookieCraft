@@ -5,11 +5,13 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+- [Litematica](https://github.com/sakura-ryoko/litematica) [^1]
 - [Lithium](https://modrinth.com/mod/lithium)
+- [Mini HUD](https://github.com/sakura-ryoko/minihud) [^1]
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+- [Simple Shulker Preview](https://modrinth.com/mod/simple-shulker-preview)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Tweakeroo](https://github.com/sakura-ryoko/tweakeroo) [^1]
