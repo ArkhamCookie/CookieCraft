@@ -1,6 +1,6 @@
 # CookieCraft
 
-A Minecraft modpack with the goal of improving the player's experience without
+A Minecraft modpack with the goal of improving the player's experience without too many mods.
 Despite the small amount of mods, CookieCraft features improved preference, quality of life changes, technical mods, and more.
 
 ## Forking
