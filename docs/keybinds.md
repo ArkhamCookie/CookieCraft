@@ -11,6 +11,14 @@ The following table is a collection of modified keybinds.
 | Social Interactions Screen | P | Not Bound |
 | Advancements | L | Not Bound |
 
+## Litmatica
+
+| Keybinds | Default | Modified |
+| --- | --- | --- |
+| Easy Place Use Key | Button 2 | Not Bound |
+| Layer Set Here | Not Bound | M + End |
+
+
 ## Tweakaroo
 
 | Keybinds | Default | Modified |
