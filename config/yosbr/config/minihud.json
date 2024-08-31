@@ -1,59 +1,59 @@
 {
   "InfoLineOrders": {
-    "infoBeeCount": 36,
-    "infoBiome": 19,
-    "infoBiomeRegistryName": 20,
-    "infoBlockBreakSpeed": 6,
-    "infoBlockInChunk": 28,
-    "infoBlockPosition": 6,
-    "infoBlockProperties": 27,
-    "infoChunkPosition": 7,
-    "infoChunkSections": 14,
-    "infoChunkSectionsLine": 15,
-    "infoChunkUpdates": 16,
+    "infoFPS": 0,
+    "infoMemoryUsage": 0,
+    "infoTimeIRL": 1,
+    "infoTimeWorld": 2,
+    "infoWorldTimeFormatted": 3,
     "infoCoordinates": 4,
     "infoCoordinatesScaled": 4,
-    "infoDifficulty": 18,
+    "infoBlockPosition": 6,
+    "infoChunkPosition": 7,
+    "infoBlockInChunk": 28,
     "infoDimensionId": 5,
-    "infoDistance": 33,
-    "infoEntities": 21,
-    "infoEntitiesClientWorld": 22,
-    "infoEntityRegistryName": 24,
     "infoFacing": 8,
-    "infoFurnaceXp": 30,
-    "infoFPS": 0,
-    "infoHoneyLevel": 37,
-    "infoHorseSpeed": 36,
-    "infoHorseJump": 37,
-    "infoLightLevel": 10,
-    "infoLookingAtBlock": 25,
-    "infoLookingAtBlockInChunk": 26,
-    "infoLookingAtEntity": 23,
-    "infoLookingAtEffects": 24,
-    "infoMemoryUsage": 0,
-    "infoMobCaps": 10,
-    "infoLoadedChunksCount": 31,
-    "infoPandaGene": 37,
-    "infoParticleCount": 17,
-    "infoPing": 36,
-    "infoRegionFile": 29,
-    "infoRotationPitch": 12,
     "infoRotationYaw": 11,
-    "infoServerTPS": 0,
-    "infoServux": 10,
-    "infoSlimeChunk": 22,
+    "infoRotationPitch": 12,
+    "infoBlockBreakSpeed": 6,
     "infoSpeed": 13,
     "infoSpeedAxis": 13,
     "infoSpeedHV": 13,
     "infoSprinting": 40,
-    "infoTileEntities": 32,
-    "infoTimeDayModulo": 35,
-    "infoTimeIRL": 1,
-    "infoTimeTotalModulo": 34,
-    "infoTimeWorld": 2,
-    "infoWorldTimeFormatted": 3,
+    "infoServerTPS": 0,
+    "infoServux": 10,
+    "infoPing": 36,
     "infoWeather": 4,
-    "infoZombieConversion": 25
+    "infoTimeTotalModulo": 34,
+    "infoTimeDayModulo": 35,
+    "infoMobCaps": 10,
+    "infoParticleCount": 17,
+    "infoDifficulty": 18,
+    "infoEntities": 21,
+    "infoEntitiesClientWorld": 22,
+    "infoTileEntities": 32,
+    "infoLightLevel": 10,
+    "infoBiome": 19,
+    "infoBiomeRegistryName": 20,
+    "infoDistance": 33,
+    "infoLoadedChunksCount": 31,
+    "infoChunkSections": 14,
+    "infoChunkSectionsLine": 15,
+    "infoChunkUpdates": 16,
+    "infoRegionFile": 29,
+    "infoSlimeChunk": 22,
+    "infoLookingAtBlock": 25,
+    "infoLookingAtBlockInChunk": 26,
+    "infoBlockProperties": 27,
+    "infoBeeCount": 36,
+    "infoHoneyLevel": 37,
+    "infoFurnaceXp": 30,
+    "infoLookingAtEntity": 23,
+    "infoEntityRegistryName": 24,
+    "infoLookingAtEffects": 24,
+    "infoZombieConversion": 25,
+    "infoHorseSpeed": 36,
+    "infoHorseJump": 37,
+    "infoPandaGene": 37
   },
   "Colors": {
     "beaconRangeLvl1": "#20E060FF",
@@ -133,12 +133,12 @@
     "mainRenderingToggle": {
       "enabled": true,
       "hotkey": {
-        "keys": "F8",
+        "keys": "H",
         "settings": {
           "activate_on": "RELEASE",
           "context": "INGAME",
           "allow_empty": false,
-          "allow_extra_keys": true,
+          "allow_extra_keys": false,
           "order_sensitive": true,
           "exclusive": false,
           "cancel": true
@@ -205,93 +205,75 @@
     "villagerOfferPriceThreshold": 1.0
   },
   "InfoTypeToggles": {
-    "infoBeeCount": false,
-    "infoBiome": false,
-    "infoBiomeRegistryName": false,
-    "infoBlockBreakSpeed": false,
-    "infoBlockInChunk": false,
-    "infoBlockPosition": true,
-    "infoBlockProperties": false,
-    "infoChunkPosition": false,
-    "infoChunkSections": false,
-    "infoChunkSectionsLine": false,
-    "infoChunkUpdates": false,
+    "infoFPS": true,
+    "infoMemoryUsage": false,
+    "infoTimeIRL": false,
+    "infoTimeWorld": false,
+    "infoWorldTimeFormatted": false,
     "infoCoordinates": false,
     "infoCoordinatesScaled": false,
-    "infoDifficulty": false,
+    "infoBlockPosition": true,
+    "infoChunkPosition": false,
+    "infoBlockInChunk": false,
     "infoDimensionId": false,
-    "infoDistance": false,
-    "infoEntities": false,
-    "infoEntitiesClientWorld": false,
-    "infoEntityRegistryName": false,
     "infoFacing": true,
-    "infoFurnaceXp": false,
-    "infoFPS": true,
-    "infoHoneyLevel": false,
-    "infoHorseSpeed": false,
-    "infoHorseJump": false,
-    "infoLightLevel": false,
-    "infoLookingAtBlock": false,
-    "infoLookingAtBlockInChunk": false,
-    "infoLookingAtEntity": false,
-    "infoLookingAtEffects": false,
-    "infoMemoryUsage": false,
-    "infoMobCaps": false,
-    "infoLoadedChunksCount": false,
-    "infoPandaGene": false,
-    "infoParticleCount": false,
-    "infoPing": false,
-    "infoRegionFile": false,
-    "infoRotationPitch": false,
     "infoRotationYaw": false,
-    "infoServerTPS": true,
-    "infoServux": false,
-    "infoSlimeChunk": false,
+    "infoRotationPitch": false,
+    "infoBlockBreakSpeed": false,
     "infoSpeed": false,
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
     "infoSprinting": false,
-    "infoTileEntities": false,
-    "infoTimeDayModulo": false,
-    "infoTimeIRL": false,
-    "infoTimeTotalModulo": false,
-    "infoTimeWorld": false,
-    "infoWorldTimeFormatted": false,
+    "infoServerTPS": true,
+    "infoServux": false,
+    "infoPing": false,
     "infoWeather": false,
-    "infoZombieConversion": false
+    "infoTimeTotalModulo": false,
+    "infoTimeDayModulo": false,
+    "infoMobCaps": false,
+    "infoParticleCount": false,
+    "infoDifficulty": false,
+    "infoEntities": false,
+    "infoEntitiesClientWorld": false,
+    "infoTileEntities": false,
+    "infoLightLevel": false,
+    "infoBiome": false,
+    "infoBiomeRegistryName": false,
+    "infoDistance": false,
+    "infoLoadedChunksCount": false,
+    "infoChunkSections": false,
+    "infoChunkSectionsLine": false,
+    "infoChunkUpdates": false,
+    "infoRegionFile": false,
+    "infoSlimeChunk": false,
+    "infoLookingAtBlock": false,
+    "infoLookingAtBlockInChunk": false,
+    "infoBlockProperties": false,
+    "infoBeeCount": false,
+    "infoHoneyLevel": false,
+    "infoFurnaceXp": false,
+    "infoLookingAtEntity": false,
+    "infoEntityRegistryName": false,
+    "infoLookingAtEffects": false,
+    "infoZombieConversion": false,
+    "infoHorseSpeed": false,
+    "infoHorseJump": false,
+    "infoPandaGene": false
   },
   "InfoHotkeys": {
-    "infoBeeCount": {
+    "infoFPS": {
       "keys": ""
     },
-    "infoBiome": {
+    "infoMemoryUsage": {
       "keys": ""
     },
-    "infoBiomeRegistryName": {
+    "infoTimeIRL": {
       "keys": ""
     },
-    "infoBlockBreakSpeed": {
+    "infoTimeWorld": {
       "keys": ""
     },
-    "infoBlockInChunk": {
-      "keys": ""
-    },
-    "infoBlockPosition": {
-      "keys": ""
-    },
-    "infoBlockProperties": {
-      "keys": ""
-    },
-    "infoChunkPosition": {
-      "keys": ""
-    },
-    "infoChunkSections": {
-      "keys": ""
-    },
-    "infoChunkSectionsLine": {
-      "keys": ""
-    },
-    "infoChunkUpdates": {
+    "infoWorldTimeFormatted": {
       "keys": ""
     },
     "infoCoordinates": {
@@ -300,91 +282,28 @@
     "infoCoordinatesScaled": {
       "keys": ""
     },
-    "infoDifficulty": {
+    "infoBlockPosition": {
+      "keys": ""
+    },
+    "infoChunkPosition": {
+      "keys": ""
+    },
+    "infoBlockInChunk": {
       "keys": ""
     },
     "infoDimensionId": {
       "keys": ""
     },
-    "infoDistance": {
-      "keys": ""
-    },
-    "infoEntities": {
-      "keys": ""
-    },
-    "infoEntitiesClientWorld": {
-      "keys": ""
-    },
-    "infoEntityRegistryName": {
-      "keys": ""
-    },
     "infoFacing": {
-      "keys": ""
-    },
-    "infoFurnaceXp": {
-      "keys": ""
-    },
-    "infoFPS": {
-      "keys": ""
-    },
-    "infoHoneyLevel": {
-      "keys": ""
-    },
-    "infoHorseSpeed": {
-      "keys": ""
-    },
-    "infoHorseJump": {
-      "keys": ""
-    },
-    "infoLightLevel": {
-      "keys": ""
-    },
-    "infoLookingAtBlock": {
-      "keys": ""
-    },
-    "infoLookingAtBlockInChunk": {
-      "keys": ""
-    },
-    "infoLookingAtEntity": {
-      "keys": ""
-    },
-    "infoLookingAtEffects": {
-      "keys": ""
-    },
-    "infoMemoryUsage": {
-      "keys": ""
-    },
-    "infoMobCaps": {
-      "keys": ""
-    },
-    "infoLoadedChunksCount": {
-      "keys": ""
-    },
-    "infoPandaGene": {
-      "keys": ""
-    },
-    "infoParticleCount": {
-      "keys": ""
-    },
-    "infoPing": {
-      "keys": ""
-    },
-    "infoRegionFile": {
-      "keys": ""
-    },
-    "infoRotationPitch": {
       "keys": ""
     },
     "infoRotationYaw": {
       "keys": ""
     },
-    "infoServerTPS": {
+    "infoRotationPitch": {
       "keys": ""
     },
-    "infoServux": {
-      "keys": ""
-    },
-    "infoSlimeChunk": {
+    "infoBlockBreakSpeed": {
       "keys": ""
     },
     "infoSpeed": {
@@ -399,28 +318,109 @@
     "infoSprinting": {
       "keys": ""
     },
-    "infoTileEntities": {
+    "infoServerTPS": {
       "keys": ""
     },
-    "infoTimeDayModulo": {
+    "infoServux": {
       "keys": ""
     },
-    "infoTimeIRL": {
-      "keys": ""
-    },
-    "infoTimeTotalModulo": {
-      "keys": ""
-    },
-    "infoTimeWorld": {
-      "keys": ""
-    },
-    "infoWorldTimeFormatted": {
+    "infoPing": {
       "keys": ""
     },
     "infoWeather": {
       "keys": ""
     },
+    "infoTimeTotalModulo": {
+      "keys": ""
+    },
+    "infoTimeDayModulo": {
+      "keys": ""
+    },
+    "infoMobCaps": {
+      "keys": ""
+    },
+    "infoParticleCount": {
+      "keys": ""
+    },
+    "infoDifficulty": {
+      "keys": ""
+    },
+    "infoEntities": {
+      "keys": ""
+    },
+    "infoEntitiesClientWorld": {
+      "keys": ""
+    },
+    "infoTileEntities": {
+      "keys": ""
+    },
+    "infoLightLevel": {
+      "keys": ""
+    },
+    "infoBiome": {
+      "keys": ""
+    },
+    "infoBiomeRegistryName": {
+      "keys": ""
+    },
+    "infoDistance": {
+      "keys": ""
+    },
+    "infoLoadedChunksCount": {
+      "keys": ""
+    },
+    "infoChunkSections": {
+      "keys": ""
+    },
+    "infoChunkSectionsLine": {
+      "keys": ""
+    },
+    "infoChunkUpdates": {
+      "keys": ""
+    },
+    "infoRegionFile": {
+      "keys": ""
+    },
+    "infoSlimeChunk": {
+      "keys": ""
+    },
+    "infoLookingAtBlock": {
+      "keys": ""
+    },
+    "infoLookingAtBlockInChunk": {
+      "keys": ""
+    },
+    "infoBlockProperties": {
+      "keys": ""
+    },
+    "infoBeeCount": {
+      "keys": ""
+    },
+    "infoHoneyLevel": {
+      "keys": ""
+    },
+    "infoFurnaceXp": {
+      "keys": ""
+    },
+    "infoLookingAtEntity": {
+      "keys": ""
+    },
+    "infoEntityRegistryName": {
+      "keys": ""
+    },
+    "infoLookingAtEffects": {
+      "keys": ""
+    },
     "infoZombieConversion": {
+      "keys": ""
+    },
+    "infoHorseSpeed": {
+      "keys": ""
+    },
+    "infoHorseJump": {
+      "keys": ""
+    },
+    "infoPandaGene": {
       "keys": ""
     }
   },
@@ -462,16 +462,7 @@
       "keys": ""
     },
     "overlayLightLevel": {
-      "keys": "F7",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "INGAME",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
+      "keys": "H,L"
     },
     "overlayRandomTicksFixed": {
       "keys": ""

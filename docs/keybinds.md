@@ -18,6 +18,11 @@ The following table is a collection of modified keybinds.
 | Easy Place Use Key | Button 2 | Not Bound |
 | Layer Set Here | Not Bound | M + End |
 
+## Mini HUD
+
+| Keybinds | Default | Modified |
+| --- | --- | --- |
+| Overlay Light Level | Not Bound | H + L |
 
 ## Tweakaroo
 
