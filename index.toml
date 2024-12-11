@@ -112,6 +112,11 @@ hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "e1b8e2e0ecd392bda24dc7cbd53788ed605ab3d8a24fbf6171939f42ecc5cdff"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "7a3cffbe9f72922392df6bf8d6fc990f46ac84fbf25d3eea51a8e37d37891652"
 metafile = true
@@ -149,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "780003058ae9154919ff2e788351a15fd32ff958d01aafcf215cf1c4e9c858d2"
 metafile = true
 
 [[files]]
