@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","file/Dracula v2.0 B4 GUI Scale 4 MC 1.21.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","file/Redstone Tweaks 2.4.5.zip","file/Dracula v2.0 B4 GUI Scale 4 MC 1.21.zip","fabric"]
+incompatibleResourcePacks:["tweakeroo"]
 lastServer:mc.chimeradev.xyz
 lang:en_us
 chatVisibility:0
