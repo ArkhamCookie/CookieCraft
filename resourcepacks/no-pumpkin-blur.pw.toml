@@ -1,0 +1,13 @@
+name = "No Pumpkin Blur"
+filename = "No Pumpkin Blur 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iQRsGaVM/versions/nDN59P9H/No%20Pumpkin%20Blur%201.21.zip"
+hash-format = "sha1"
+hash = "c89e7cd6d8308c47222141958a9e81baa751740c"
+
+[update]
+[update.modrinth]
+mod-id = "iQRsGaVM"
+version = "nDN59P9H"
