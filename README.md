@@ -11,8 +11,6 @@ It even comes with a permissive license, so you are free to do **whatever** you'
 
 For more about how to fork and maintain the modpack, please read our [docs](./docs/).[^1]
 
----
-
 ## Attributions
 
 ### Logo
