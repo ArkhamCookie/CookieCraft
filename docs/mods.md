@@ -11,6 +11,7 @@
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
+- [Respackopts](https://modrinth.com/mod/respackopts)
 - [Simple Shulker Preview](https://modrinth.com/mod/simple-shulker-preview)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
@@ -21,6 +22,7 @@
 
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
+- [LibJF](https://modrinth.com/mod/libjf)
 - [MaLiLib](https://github.com/sakura-ryoko/malilib) [^1]
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 
