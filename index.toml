@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "7a3cffbe9f72922392df6bf8d6fc990f46ac84fbf25d3eea51a8e37d37891652"
+hash = "3c5cd4d829c8e9292450825c726693e09257fc1e917797449fdbeb58c903878b"
 metafile = true
 
 [[files]]
