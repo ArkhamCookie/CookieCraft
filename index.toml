@@ -136,11 +136,6 @@ hash = "96998eb69f6421740373e889f07d9011afd24f8247bc54bbaae344b334314b14"
 metafile = true
 
 [[files]]
-file = "mods/mini-hud.pw.toml"
-hash = "2ad07a15bacaa245c62d92089598c1a46f1369579b020fff3732826bac89dbe3"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "0f26563dacd49497c46cba936c44081a5f9d134c3ba1cdcbac8dda46a6360392"
 metafile = true
