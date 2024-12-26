@@ -181,8 +181,8 @@ hash = "412193be248fc8a1898798abc46733361bbd6a7d79865531ee1ce7d3904d1b29"
 metafile = true
 
 [[files]]
-file = "mods/tweakaroo.pw.toml"
-hash = "1969f13a434e467e37abfa81f1361427f6c6a8cfa2b52cd72458f5cc4abaceb3"
+file = "mods/tweakeroo.pw.toml"
+hash = "d1dae409cb516bc1d6f0d901d8cb4c0f2291b6327e4aa04b2f19793b3abf5682"
 metafile = true
 
 [[files]]
