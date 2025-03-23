@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
+hash = "6f401ef69f355048385146209db2c5eabb8173969f9bddb7955706efa036808f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6184fab619e2400c54f8fadbb81033eb7dea9a4934a2fc870c609514e475a7ac"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
+hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
 
 [[files]]
@@ -122,27 +122,27 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "3c5cd4d829c8e9292450825c726693e09257fc1e917797449fdbeb58c903878b"
+hash = "780f22d956d790752ca7bae61c8aa9b32f87457e5fdc305069bdea72d3d37880"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
+hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "96998eb69f6421740373e889f07d9011afd24f8247bc54bbaae344b334314b14"
+hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "0f26563dacd49497c46cba936c44081a5f9d134c3ba1cdcbac8dda46a6360392"
+hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7f4eb7cddc4337e97b3f38e70c90f26a0d58ed69c58d6292d22960144db9d098"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
@@ -152,12 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
@@ -177,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "412193be248fc8a1898798abc46733361bbd6a7d79865531ee1ce7d3904d1b29"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "d1dae409cb516bc1d6f0d901d8cb4c0f2291b6327e4aa04b2f19793b3abf5682"
+hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
 metafile = true
 
 [[files]]
