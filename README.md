@@ -19,7 +19,7 @@ The logo is [OpenMoji](https://openmoji.org)'s [Cookie](https://openmoji.org/lib
 
 ### Inspiration
 
-[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) has an excellent [documentation](https://wiki.download.fo/) listing the mods and why they are included.
-
+[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) has excellent [documentation](https://wiki.download.fo/) listing the mods and why they are included.
 
 [^1]: Coming Soon!
+
