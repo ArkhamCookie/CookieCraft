@@ -12,10 +12,10 @@
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
 - [Respackopts](https://modrinth.com/mod/respackopts)
-- [Simple Shulker Preview](https://modrinth.com/mod/simple-shulker-preview)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-- [Tweakeroo](https://github.com/sakura-ryoko/tweakeroo) [^1]
+- [Tweakeroo](https://modrinth.com/mod/tweakeroo)
+- [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
 - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Libraries
@@ -26,6 +26,3 @@
 - [MaLiLib](https://github.com/sakura-ryoko/malilib) [^1]
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 
----
-
-[^1]: Using sakura-ryoko's fork
