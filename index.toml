@@ -177,6 +177,11 @@ hash = "ded35e7226b1ea89121fe5f9b397fcf6bfe8f239f63ec7fcd092fd527b68fecd"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "65b187f6fce313c83a35ee2a29919a3a3a57d71c8d26d7306e1891899cf92b8f"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
