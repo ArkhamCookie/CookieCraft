@@ -5,9 +5,9 @@
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-- [Litematica](https://github.com/sakura-ryoko/litematica) [^1]
+- [Litematica](https://github.com/sakura-ryoko/litematica)
 - [Lithium](https://modrinth.com/mod/lithium)
-- [Mini HUD](https://github.com/sakura-ryoko/minihud) [^1]
+- [Mini HUD](https://github.com/sakura-ryoko/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
@@ -23,6 +23,6 @@
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [LibJF](https://modrinth.com/mod/libjf)
-- [MaLiLib](https://github.com/sakura-ryoko/malilib) [^1]
+- [MaLiLib](https://github.com/sakura-ryoko/malilib)
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 
