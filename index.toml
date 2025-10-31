@@ -77,13 +77,13 @@ file = "config/yosbr/resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
 hash = "731182aa1ef7fca269004c315630bae2135000e1d64e289a8aa91835f5a6f961"
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "a8fe779847f0dbe2fd01e8e14d2c457f049f94b34de90b9d21d5453332945ab9"
+file = "disabled/mods/bobby.pw.toml"
+hash = "1999e2e85cc30a463ba4bb84ab2f612d8f55e68acc27279abad1ada8306fbd9e"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "1999e2e85cc30a463ba4bb84ab2f612d8f55e68acc27279abad1ada8306fbd9e"
+file = "mods/betterf3.pw.toml"
+hash = "a8fe779847f0dbe2fd01e8e14d2c457f049f94b34de90b9d21d5453332945ab9"
 metafile = true
 
 [[files]]
