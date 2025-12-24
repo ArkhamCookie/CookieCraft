@@ -1,13 +1,13 @@
 name = "No Pumpkin Blur"
-filename = "No Pumpkin Blur 1.21.9.zip"
+filename = "No Pumpkin Blur 1.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iQRsGaVM/versions/soOWFJ8R/No%20Pumpkin%20Blur%201.21.9.zip"
+url = "https://cdn.modrinth.com/data/iQRsGaVM/versions/BubFSkJm/No%20Pumpkin%20Blur%201.0.zip"
 hash-format = "sha512"
-hash = "b741242b113401facb6883176f10f4817f5225a96cefbd2c2cd2f319b4f4750348559d9c45aa802f83bb081ddac3b273645e637d77dfb4244d8a997262726963"
+hash = "ec9caf2894294bb9a42d23804afc12d239d8de5fc9ad78ae6b14fc6d05c5b29df179de3407df7a2c8a0ea53a26d2305817c3a87a13563667795820e6e1107df0"
 
 [update]
 [update.modrinth]
 mod-id = "iQRsGaVM"
-version = "soOWFJ8R"
+version = "BubFSkJm"
