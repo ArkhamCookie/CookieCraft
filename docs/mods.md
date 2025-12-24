@@ -13,7 +13,6 @@
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
 - [Respackopts](https://modrinth.com/mod/respackopts)
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - [Tweakeroo](https://modrinth.com/mod/tweakeroo)
 - [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)
 - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
