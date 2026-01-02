@@ -45,6 +45,10 @@ file = "config/yosbr/config/litematica.json"
 hash = "78ac3910c6c07428c2f1703c4baa2719ab24692c92bd7fbb6dbbf943216a7ab0"
 
 [[files]]
+file = "config/yosbr/config/locator-heads.json"
+hash = "492fe308f00f1591628f9e57aaa367c2b52e437b0f6d2104cb0d5e906ec80930"
+
+[[files]]
 file = "config/yosbr/config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
