@@ -123,6 +123,11 @@ hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
 metafile = true
 
 [[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "3dae24b3d4a5d4a99b5cf5629d5df236e128fddaef9c6202a19f0136769a1bb2"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "c8da9df94366869dacc80807029f14edb4c583420b7b2d5193d6da06e85150ea"
 metafile = true
