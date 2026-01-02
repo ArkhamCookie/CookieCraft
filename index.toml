@@ -45,6 +45,10 @@ file = "config/yosbr/config/litematica.json"
 hash = "78ac3910c6c07428c2f1703c4baa2719ab24692c92bd7fbb6dbbf943216a7ab0"
 
 [[files]]
+file = "config/yosbr/config/locator-heads.json"
+hash = "492fe308f00f1591628f9e57aaa367c2b52e437b0f6d2104cb0d5e906ec80930"
+
+[[files]]
 file = "config/yosbr/config/malilib.json"
 hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
@@ -120,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+metafile = true
+
+[[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "3dae24b3d4a5d4a99b5cf5629d5df236e128fddaef9c6202a19f0136769a1bb2"
 metafile = true
 
 [[files]]
