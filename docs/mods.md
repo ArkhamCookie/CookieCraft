@@ -7,6 +7,7 @@
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [Litematica](https://github.com/sakura-ryoko/litematica)
 - [Lithium](https://modrinth.com/mod/lithium)
+- [Locator Heads](https://modrinth.com/mod/locator-head)
 - [Mini HUD](https://github.com/sakura-ryoko/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
