@@ -70,15 +70,15 @@ hash = "17d8a008c32c6fdb9e833707657f01f24ea4eefe0a38d8b5e7888f1cd2d45ad1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "68a87bc3c15ed3fccf65049aa0a21cbca1b8e5efb8336f8d29cdd5906485e181"
+hash = "a5fd31272d7c16137a226f7c12d16c39daba584d7a0fec1a3d7dd21ab39b529b"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
 hash = "731182aa1ef7fca269004c315630bae2135000e1d64e289a8aa91835f5a6f961"
 
 [[files]]
-file = "disabled/betterf3.pw.toml"
-hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
+file = "mods/betterf3.pw.toml"
+hash = "8b1e7e1d6edd89356541f1c817f07d8cb1edc78bb5de22ad17b4adbc40ee1ee3"
 metafile = true
 
 [[files]]
@@ -93,12 +93,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
+hash = "af8dc072b8d618de96260fccfa5fab7f79c5ca9679bc3a57473f6df4ce218fff"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
 metafile = true
 
 [[files]]
@@ -118,12 +118,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "7cb1f88c44e35ca6a374ce9cf4a82df99843e6109576e0e9bb20ea2a1f5c16f7"
+hash = "77fefae63ffcc1290c584c1b7d1be1a2725ae9ed2424c44c8b81f3640cb69ccb"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "e1bdd6fe057de088e1aab32b70309185bdfe6f004146067b7b14d4f83fbb207b"
+hash = "6d26fbac2dca7845d5de9e5fbbe3dbcb7541ccb952e4f5f14a92e618d5448965"
 metafile = true
 
 [[files]]
@@ -148,12 +148,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "820d98a1f8bdcbf5772fda8670d6e353c120a4df8cfb478aa9b744429253a216"
+hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
@@ -173,12 +173,12 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "d80f469d856cb34a20556543c9c0617bcf83a259cf6a3822104f84883c9879a3"
+hash = "dc52e83ed9391a34725d38f851894bdcb2cff26814b9bfecdc0b0794596eb01d"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "97d395207a6d63fdba5125c099904baed7d6ceab7267db4b87fb6aa9452e675a"
+hash = "111767e94eca83895f62cc4976223265dbdd8287e5736ca57ce3a9a68fe60dbe"
 metafile = true
 
 [[files]]
