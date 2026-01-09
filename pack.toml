@@ -1,12 +1,12 @@
 name = "CookieCraft"
 author = "ArkhamCookie"
-version = "0.13.1"
+version = "0.13.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "998fc5acee1dbf4ad1bf965098689d57255451c6ecd017b05e73c8788508c0f1"
+hash = "1e63f4e4b8df183cf6010c2a54f484e7c30e44e89aa69f83b6c0bd66b4933cd9"
 
 [versions]
 fabric = "0.18.4"
