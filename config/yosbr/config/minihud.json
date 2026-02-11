@@ -1,6 +1,7 @@
 {
   "InfoLineOrders": {
     "infoFPS": 0,
+    "infoGPU": 1,
     "infoMemoryUsage": 0,
     "infoTimeIRL": 1,
     "infoTimeWorld": 2,
@@ -15,17 +16,18 @@
     "infoRotationYaw": 11,
     "infoRotationPitch": 12,
     "infoBlockBreakSpeed": 6,
+    "infoPlayerExperience": 0,
     "infoSpeed": 13,
     "infoSpeedAxis": 13,
     "infoSpeedHV": 13,
     "infoSprinting": 40,
     "infoServerTPS": 0,
-    "infoServux": 10,
+    "§6infoServux§r": 0,
     "infoPing": 36,
-    "infoWeather": 4,
+    "§6infoWeather§r": 0,
     "infoTimeTotalModulo": 34,
     "infoTimeDayModulo": 35,
-    "infoMobCaps": 10,
+    "§6infoMobCaps§r": 0,
     "infoParticleCount": 17,
     "infoDifficulty": 18,
     "infoEntities": 21,
@@ -44,16 +46,23 @@
     "infoLookingAtBlock": 25,
     "infoLookingAtBlockInChunk": 26,
     "infoBlockProperties": 27,
-    "infoBeeCount": 36,
+    "§6infoBeeCount§r": 0,
+    "§6infoComparatorOutput§r": 0,
     "infoHoneyLevel": 37,
-    "infoFurnaceXp": 30,
-    "infoLookingAtEntity": 23,
+    "§6infoFurnaceXp§r": 0,
     "infoEntityRegistryName": 24,
+    "infoLookingAtEntity": 23,
     "infoLookingAtEffects": 24,
+    "infoLookingAtPlayerExp": 0,
     "infoZombieConversion": 25,
     "infoHorseSpeed": 36,
     "infoHorseJump": 37,
-    "infoPandaGene": 37
+    "infoHorseMaxHealth": 57,
+    "infoPandaGene": 37,
+    "infoDolphinTreasure": 57,
+    "infoEntityVariant": 0,
+    "infoEntityHomePos": 59,
+    "infoEntityCopperAging": 61
   },
   "Colors": {
     "beaconRangeLvl1": "#20E060FF",
@@ -62,6 +71,7 @@
     "beaconRangeLvl4": "#2060FF40",
     "blockGridOverlayColor": "#80FFFFFF",
     "conduitRange": "#2030FFFF",
+    "conduitRangeOutlines": "#80FFFFFF",
     "lightLevelMarkerBlockLit": "#FF209040",
     "lightLevelMarkerDark": "#FFFF4848",
     "lightLevelMarkerDim": "#FFC0C040",
@@ -99,12 +109,39 @@
   "Generic": {
     "axolotlTooltips": true,
     "beeTooltips": true,
+    "disableVanillaBeeTooltips": false,
+    "bundleTooltips": true,
+    "bundleTooltipsFillLevel": 64,
+    "customModelTooltips": false,
+    "foodTooltips": true,
     "honeyTooltips": true,
+    "lodestoneTooltips": false,
     "biomeOverlaySingleColor": true,
+    "bundlePreview": false,
+    "bundleDisplayBgColor": true,
+    "bundleDisplayRequireShift": true,
+    "bundleDisplayRowWidth": 9,
     "debugMessages": false,
     "dontClearStoredSeedOnDimensionChange": true,
-    "entityDataSync": true,
+    "conduitRangeOverlayCombineQuads": true,
+    "conduitRangeOverlayOutlines": false,
+    "conduitRangeOverlayThrough": false,
+    "hudDataSync": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "entityDataSync": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "entityDataSyncBackup": true,
+    "entityDataSyncBackupOpenToLan": false,
+    "entityDataSyncCacheRefresh": 0.25,
+    "entityDataSyncCacheTimeout": 1.0,
     "lightLevelAutoHeight": false,
     "lightLevelCollisionCheck": false,
     "lightLevelColoredNumbers": true,
@@ -118,7 +155,9 @@
     "requireSneak": false,
     "shulkerBoxPreview": false,
     "shulkerDisplayBgColor": true,
+    "shulkerDisplayEnderChest": false,
     "shulkerDisplayRequireShift": true,
+    "slimeChunkRenderThrough": false,
     "slimeChunkTopToPlayer": true,
     "sortLinesByLength": false,
     "sortLinesReversed": false,
@@ -126,12 +165,14 @@
     "spawnPlayerRedstoneOverlayEnabled": false,
     "spawnRealOuterOverlayEnabled": false,
     "spawnRealRedstoneOverlayEnabled": false,
+    "speedUnits": "mps",
     "structuresRenderThrough": false,
+    "structuresRenderOutlines": false,
     "useCustomizedCoordinateFormat": true,
     "useFontShadow": false,
     "useTextBackground": true,
     "mainRenderingToggle": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": "H",
         "settings": {
@@ -172,9 +213,19 @@
     "blockPosFormat": "Block: %d, %d, %d",
     "blockGridOverlayRadius": 32,
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
-    "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
+    "copperAgingMode": "mc_time",
+    "dateFormatType": "regular",
+    "dateFormatString": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
+    "durationFormatType": "pretty",
+    "durationFormatString": "HH:mm:ss.SSS",
     "fontScale": 0.75,
+    "hudStatusEffectsShift": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "lightLevelMarkerSize": 0.84,
     "lightLevelNumberOffsetBlockX": 0.26,
     "lightLevelNumberOffsetBlockY": 0.32,
@@ -198,14 +249,17 @@
     "inventoryPreviewToggleScreen": {
       "keys": "BUTTON_3"
     },
+    "inventoryPreviewVillagerBGColor": false,
     "villagerConversionTicks": true,
     "villagerOfferEnchantmentBooks": true,
+    "villagerOfferPriceRange": true,
     "villagerOfferHighestLevelOnly": false,
     "villagerOfferLowestPriceNearby": false,
     "villagerOfferPriceThreshold": 1.0
   },
   "InfoTypeToggles": {
     "infoFPS": true,
+    "infoGPU": false,
     "infoMemoryUsage": false,
     "infoTimeIRL": false,
     "infoTimeWorld": false,
@@ -220,17 +274,18 @@
     "infoRotationYaw": false,
     "infoRotationPitch": false,
     "infoBlockBreakSpeed": false,
+    "infoPlayerExperience": false,
     "infoSpeed": false,
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
     "infoSprinting": false,
     "infoServerTPS": true,
-    "infoServux": false,
+    "§6infoServux§r": false,
     "infoPing": false,
-    "infoWeather": false,
+    "§6infoWeather§r": false,
     "infoTimeTotalModulo": false,
     "infoTimeDayModulo": false,
-    "infoMobCaps": false,
+    "§6infoMobCaps§r": false,
     "infoParticleCount": false,
     "infoDifficulty": false,
     "infoEntities": false,
@@ -249,19 +304,29 @@
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
     "infoBlockProperties": false,
-    "infoBeeCount": false,
+    "§6infoBeeCount§r": false,
+    "§6infoComparatorOutput§r": false,
     "infoHoneyLevel": false,
-    "infoFurnaceXp": false,
-    "infoLookingAtEntity": false,
+    "§6infoFurnaceXp§r": false,
     "infoEntityRegistryName": false,
+    "infoLookingAtEntity": false,
     "infoLookingAtEffects": false,
+    "infoLookingAtPlayerExp": false,
     "infoZombieConversion": false,
     "infoHorseSpeed": false,
     "infoHorseJump": false,
-    "infoPandaGene": false
+    "infoHorseMaxHealth": false,
+    "infoPandaGene": false,
+    "infoDolphinTreasure": false,
+    "infoEntityVariant": false,
+    "infoEntityHomePos": false,
+    "infoEntityCopperAging": false
   },
   "InfoHotkeys": {
     "infoFPS": {
+      "keys": ""
+    },
+    "infoGPU": {
       "keys": ""
     },
     "infoMemoryUsage": {
@@ -306,6 +371,9 @@
     "infoBlockBreakSpeed": {
       "keys": ""
     },
+    "infoPlayerExperience": {
+      "keys": ""
+    },
     "infoSpeed": {
       "keys": ""
     },
@@ -321,13 +389,13 @@
     "infoServerTPS": {
       "keys": ""
     },
-    "infoServux": {
+    "§6infoServux§r": {
       "keys": ""
     },
     "infoPing": {
       "keys": ""
     },
-    "infoWeather": {
+    "§6infoWeather§r": {
       "keys": ""
     },
     "infoTimeTotalModulo": {
@@ -336,7 +404,7 @@
     "infoTimeDayModulo": {
       "keys": ""
     },
-    "infoMobCaps": {
+    "§6infoMobCaps§r": {
       "keys": ""
     },
     "infoParticleCount": {
@@ -393,22 +461,28 @@
     "infoBlockProperties": {
       "keys": ""
     },
-    "infoBeeCount": {
+    "§6infoBeeCount§r": {
+      "keys": ""
+    },
+    "§6infoComparatorOutput§r": {
       "keys": ""
     },
     "infoHoneyLevel": {
       "keys": ""
     },
-    "infoFurnaceXp": {
-      "keys": ""
-    },
-    "infoLookingAtEntity": {
+    "§6infoFurnaceXp§r": {
       "keys": ""
     },
     "infoEntityRegistryName": {
       "keys": ""
     },
+    "infoLookingAtEntity": {
+      "keys": ""
+    },
     "infoLookingAtEffects": {
+      "keys": ""
+    },
+    "infoLookingAtPlayerExp": {
       "keys": ""
     },
     "infoZombieConversion": {
@@ -420,7 +494,22 @@
     "infoHorseJump": {
       "keys": ""
     },
+    "infoHorseMaxHealth": {
+      "keys": ""
+    },
     "infoPandaGene": {
+      "keys": ""
+    },
+    "infoDolphinTreasure": {
+      "keys": ""
+    },
+    "infoEntityVariant": {
+      "keys": ""
+    },
+    "infoEntityHomePos": {
+      "keys": ""
+    },
+    "infoEntityCopperAging": {
       "keys": ""
     }
   },
@@ -429,7 +518,7 @@
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,
-    "overlayLightLevel": false,
+    "overlayLightLevel": true,
     "overlayRandomTicksFixed": false,
     "overlayRandomTicksPlayer": false,
     "overlayRegionFile": false,
@@ -437,16 +526,37 @@
     "overlaySpawnableColumnHeights": false,
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
-    "overlayStructureMainToggle": false,
-    "overlayVillagerInfo": false,
+    "§6overlayStructureMainToggle§r": false,
+    "§6overlayVillagerInfo§r": false,
     "shapeRenderer": false,
     "debugChunkBorder": false,
-    "debugChunkInfo": false,
-    "debugChunkOcclusion": false,
+    "debugEntityHitboxes": true,
+    "debugBlockOutline": false,
+    "debugWaterEnabled": false,
+    "debugHeightmapEnabled": false,
     "debugCollisionBoxEnabled": false,
-    "debugNeighborsUpdateEnabled": false,
-    "debugSolidFaceEnabled": false,
-    "debugWaterEnabled": false
+    "debugSupportingBlock": false,
+    "debugBlockLightEnabled": false,
+    "debugSkyLightEnabled": false,
+    "debugSkylightSectionsEnabled": false,
+    "debugChunkLoading": false,
+    "debugChunkSectionOctree": false,
+    "debugChunkSectionPaths": false,
+    "debugChunkSectionVisibility": false,
+    "§6debugDataMainToggle§r": false,
+    "§6debugPathfindingEnabled§r": false,
+    "§6debugNeighborsUpdateEnabled§r": false,
+    "§6debugRedstoneUpdateOrder§r": false,
+    "§6debugStructuresEnabled§r": false,
+    "§6debugVillageSectionsEnabled§r": false,
+    "§6debugBrainEnabled§r": false,
+    "§6debugPoiEnabled§r": false,
+    "§6debugBeeDataEnabled§r": false,
+    "§6debugRaidCenterEnabled§r": false,
+    "§6debugGoalSelectorEnabled§r": false,
+    "§6debugGameEventsEnabled§r": false,
+    "§6debugBreezeJumpEnabled§r": false,
+    "§6debugEntityBlockIntersectionEnabled§r": false
   },
   "RendererHotkeys": {
     "overlayBeaconRange": {
@@ -485,10 +595,10 @@
     "overlaySpawnChunkPlayer": {
       "keys": ""
     },
-    "overlayStructureMainToggle": {
+    "§6overlayStructureMainToggle§r": {
       "keys": ""
     },
-    "overlayVillagerInfo": {
+    "§6overlayVillagerInfo§r": {
       "keys": ""
     },
     "shapeRenderer": {
@@ -497,22 +607,85 @@
     "debugChunkBorder": {
       "keys": ""
     },
-    "debugChunkInfo": {
+    "debugEntityHitboxes": {
       "keys": ""
     },
-    "debugChunkOcclusion": {
+    "debugBlockOutline": {
+      "keys": ""
+    },
+    "debugWaterEnabled": {
+      "keys": ""
+    },
+    "debugHeightmapEnabled": {
       "keys": ""
     },
     "debugCollisionBoxEnabled": {
       "keys": ""
     },
-    "debugNeighborsUpdateEnabled": {
+    "debugSupportingBlock": {
       "keys": ""
     },
-    "debugSolidFaceEnabled": {
+    "debugBlockLightEnabled": {
       "keys": ""
     },
-    "debugWaterEnabled": {
+    "debugSkyLightEnabled": {
+      "keys": ""
+    },
+    "debugSkylightSectionsEnabled": {
+      "keys": ""
+    },
+    "debugChunkLoading": {
+      "keys": ""
+    },
+    "debugChunkSectionOctree": {
+      "keys": ""
+    },
+    "debugChunkSectionPaths": {
+      "keys": ""
+    },
+    "debugChunkSectionVisibility": {
+      "keys": ""
+    },
+    "§6debugDataMainToggle§r": {
+      "keys": ""
+    },
+    "§6debugPathfindingEnabled§r": {
+      "keys": ""
+    },
+    "§6debugNeighborsUpdateEnabled§r": {
+      "keys": ""
+    },
+    "§6debugRedstoneUpdateOrder§r": {
+      "keys": ""
+    },
+    "§6debugStructuresEnabled§r": {
+      "keys": ""
+    },
+    "§6debugVillageSectionsEnabled§r": {
+      "keys": ""
+    },
+    "§6debugBrainEnabled§r": {
+      "keys": ""
+    },
+    "§6debugPoiEnabled§r": {
+      "keys": ""
+    },
+    "§6debugBeeDataEnabled§r": {
+      "keys": ""
+    },
+    "§6debugRaidCenterEnabled§r": {
+      "keys": ""
+    },
+    "§6debugGoalSelectorEnabled§r": {
+      "keys": ""
+    },
+    "§6debugGameEventsEnabled§r": {
+      "keys": ""
+    },
+    "§6debugBreezeJumpEnabled§r": {
+      "keys": ""
+    },
+    "§6debugEntityBlockIntersectionEnabled§r": {
       "keys": ""
     }
   },
