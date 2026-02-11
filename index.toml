@@ -22,7 +22,7 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "a8fee990113ee895eb39ea941e6686820109a4ec6d22140e4c3c488780272a04"
+hash = "c25a8aa17d7be2f81d3a8e7fe469a8181f076c8d8e0e1b5d7bbefe208f8bd8fe"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -38,39 +38,39 @@ hash = "d556c0a15d025090c0b57d15126be718efe328854cc2cc0385ab9c64676d1c91"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "78ac3910c6c07428c2f1703c4baa2719ab24692c92bd7fbb6dbbf943216a7ab0"
+hash = "de5a87620f0cb86509422a417f5aa758f039cbb08411829609fcd0de3a166203"
 
 [[files]]
 file = "config/yosbr/config/locator-heads.json"
-hash = "492fe308f00f1591628f9e57aaa367c2b52e437b0f6d2104cb0d5e906ec80930"
+hash = "5481772ad0d112c317ad11a39ecd0b277b905a3cc8548916fbfedeb7367bda51"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
-hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+hash = "85ca79ccc1896ec7168d0b61a4eca8ebfcbd096f46c37df07211952fa2d6f470"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "4daea56b8c08375fb194fe93c54023ede83961fcb0ff540bce52d2d433c72fdf"
+hash = "ad2bdb4c4f749fe50ce50c7a7c793a414f0ff9abfd5b959db50cc8b1c1cd84c4"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "85b5b12900864c01573b4b5984ce311554e149dae17984adab0a05273d7bb652"
+hash = "3721cab4a79d01dd56aa2821c81963c8f8a9db0d009dad9e29630095ed0d7049"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
+hash = "0c34e9630f481e6af9dac31ca068ff3ec95f761d95b4385ff52d20d24b8f4411"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "17d8a008c32c6fdb9e833707657f01f24ea4eefe0a38d8b5e7888f1cd2d45ad1"
+hash = "ff45be3a02cbeeffa1f503f1078880fdb8aa1b634950d123669be3577269221d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a5fd31272d7c16137a226f7c12d16c39daba584d7a0fec1a3d7dd21ab39b529b"
+hash = "c699bba29e6a5400429789fa6db256032010d3e19d3c9bd66b6edce97ddf668a"
 
 [[files]]
 file = "config/yosbr/resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
