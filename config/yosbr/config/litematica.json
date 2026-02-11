@@ -6,6 +6,7 @@
     "schematicRebuildBreakPlaceOverlayColor": "#4C33CC33",
     "schematicRebuildBreakExceptPlaceOverlayColor": "#4CF03030",
     "schematicRebuildReplaceOverlayColor": "#4CF0A010",
+    "schematicOverlayColorDiffBlock": "#30F8D650",
     "schematicOverlayColorExtra": "#4CFF4CE6",
     "schematicOverlayColorMissing": "#2C33B3E6",
     "schematicOverlayColorWrongBlock": "#4CFF3333",
@@ -18,21 +19,43 @@
     "commandDisableFeedback": true,
     "commandFillNoChunkClamp": false,
     "commandUseWorldEdit": false,
+    "commandUseStrict": true,
     "customSchematicBaseDirectoryEnabled": false,
+    "debugHudMode": "default",
     "debugLogging": false,
+    "displayFileOpsFeedback": false,
+    "datafixerMode": "always",
+    "datafixerDefaultSchema": 1139,
+    "easyPlaceClickAdjacent": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
     "easyPlaceMode": false,
+    "easyPlacePostRewrite": false,
     "easyPlaceSinglePlayerHandling": true,
+    "easyPlaceSinglePlayerValidation": true,
     "easyPlaceProtocolVersion": "auto",
+    "easyPlaceSwingHand": true,
     "easyPlaceVanillaReach": false,
+    "enableDifferentBlocks": false,
+    "entityDataSync": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "entityDataSyncBackup": true,
+    "entityDataSyncCacheTimeout": 2.0,
+    "entityDataSyncLoadNbt": true,
     "executeRequireHoldingTool": true,
     "fixChestMirror": true,
     "fixRailRotation": true,
+    "fixStairsMirror": true,
     "generateLowercaseNames": false,
     "highlightBlockInInventory": false,
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
+    "materialListIgnoreState": false,
+    "materialListRecipeDetails": true,
     "pasteAlwaysUseFill": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
@@ -43,6 +66,7 @@
     "pasteToMcFunctionFiles": false,
     "pasteUseFillCommand": true,
     "pasteUsingCommandsInSp": false,
+    "pasteUsingServux": true,
     "pickBlockAvoidDamageable": true,
     "pickBlockAvoidTools": false,
     "pickBlockEnabled": true,
@@ -52,22 +76,26 @@
     "placementRestrictionWarn": "actionbar",
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
+    "serverNbtRequestRate": 2,
     "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
     "pasteReplaceBehavior": "none",
+    "pasteLayerBehavior": "all",
+    "schematicVcsDeleteMode": "matching_block",
     "selectionCornersMode": "corners",
     "commandFillMaxVolume": 32768,
-    "commandLimitPerTick": 24,
+    "commandLimitPerTick": 8,
     "commandNameClone": "clone",
     "commandNameFill": "fill",
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "/home/arkhamcookie/.config/com.modrinth.theseus/profiles/CookieCraft/schematics",
+    "customSchematicBaseDirectory": "/home/arkhamcookie/.local/share/PrismLauncher/instances/CookieCraft-0.8.0/.minecraft/schematics",
     "easyPlaceSwapInterval": 0,
-    "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick"
+    "pickBlockableSlots": "7,8,9",
+    "toolItem": "minecraft:stick",
+    "toolItemComponents": "empty"
   },
   "Hotkeys": {
     "addSelectionBox": {
@@ -80,6 +108,9 @@
       "keys": ""
     },
     "easyPlaceUseKey": {
+      "keys": "BUTTON_2"
+    },
+    "easyPlaceFirst": {
       "keys": ""
     },
     "easyPlaceToggle": {
@@ -107,7 +138,7 @@
       "keys": "PAGE_DOWN"
     },
     "layerSetHere": {
-      "keys": "M,END"
+      "keys": ""
     },
     "nudgeSelectionNegative": {
       "keys": ""
@@ -176,7 +207,7 @@
       "keys": "LEFT_CONTROL,LEFT_ALT,S"
     },
     "schematicEditBreakPlaceAll": {
-      "keys": ""
+      "keys": "KP_6"
     },
     "schematicEditBreakAllExcept": {
       "keys": ""
@@ -185,12 +216,24 @@
       "keys": ""
     },
     "schematicEditReplaceAll": {
-      "keys": ""
+      "keys": "KP_3"
     },
     "schematicEditReplaceBlock": {
       "keys": ""
     },
     "schematicEditReplaceDirection": {
+      "keys": ""
+    },
+    "schematicEditReplaceSelection": {
+      "keys": ""
+    },
+    "schematicPlacementRotation": {
+      "keys": ""
+    },
+    "schematicPlacementMirror": {
+      "keys": ""
+    },
+    "schematicVCSDeleteBlockByPlacement": {
       "keys": ""
     },
     "schematicVersionCycleModifier": {
@@ -291,6 +334,7 @@
     }
   },
   "InfoOverlays": {
+    "defaultSelectionMode": "simple",
     "blockInfoLinesEnabled": true,
     "blockInfoOverlayEnabled": true,
     "infoOverlaysTargetFluids": false,
@@ -324,28 +368,43 @@
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,
+    "enableSchematicFluidRendering": true,
+    "enableSchematicFakeLighting": true,
     "enableSchematicOverlay": true,
+    "enableSchematicOverlayCulling": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "ignoreExistingFluids": false,
+    "ignoreExistingBlocks": false,
+    "ignorableExistingBlocks": [],
     "overlayReducedInnerSides": false,
+    "renderAOModernEnable": false,
     "renderAreaSelectionBoxSides": true,
     "renderBlocksAsTranslucent": true,
+    "renderEnableTranslucentResorting": true,
     "renderCollidingSchematicBlocks": false,
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,
+    "renderFakeLightingLevel": 15,
     "renderPlacementBoxSides": false,
     "renderPlacementEnclosingBox": true,
     "renderPlacementEnclosingBoxSides": false,
+    "renderSchematicEntities": true,
+    "renderSchematicTileEntities": true,
     "renderTranslucentBlockInnerSides": false,
     "schematicOverlayEnableOutlines": true,
     "schematicOverlayEnableSides": true,
     "schematicOverlayModelOutline": true,
-    "schematicOverlayModelSides": true,
+    "schematicOverlayModelSides": false,
     "schematicOverlayRenderThroughBlocks": false,
+    "schematicOverlayTypeDiffBlock": true,
     "schematicOverlayTypeExtra": true,
     "schematicOverlayTypeMissing": true,
     "schematicOverlayTypeWrongBlock": true,
     "schematicOverlayTypeWrongState": true,
-    "schematicVerifierUseBlockModels": false,
     "ghostBlockAlpha": 0.5,
     "placementBoxSideAlpha": 0.2,
     "schematicOverlayOutlineWidth": 1.0,
