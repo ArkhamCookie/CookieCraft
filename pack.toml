@@ -1,6 +1,6 @@
 name = "CookieCraft"
 author = "ArkhamCookie"
-version = "0.13.4"
+version = "0.13.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "932f25ab5581df683b3805d54a375c2d4551f42786f18778b82e58aa24719075"
 
 [versions]
-fabric = "0.18.4"
+fabric = "0.19.3"
 minecraft = "1.21.11"
