@@ -11,6 +11,7 @@
 - [Mini HUD](https://github.com/sakura-ryoko/minihud)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [No Chat Restructions](https://modrinth.com/mod/no-chat-restrictions)
 - [No Telemetry](https://modrinth.com/mod/no-telemetry)
 - [Respackopts](https://modrinth.com/mod/respackopts)
 - [Sodium](https://modrinth.com/mod/sodium)
