@@ -192,6 +192,11 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-fire-on-hud.pw.toml"
+hash = "43fa87988ddce57c434dac04fe2087e3b9f4187b9d89ec61b7ddaba5733f0878"
+metafile = true
+
+[[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
 hash = "ae6f7af51e842cc854710828f803515de88f37e6b96d68f0624ba5623dd58f73"
 metafile = true
