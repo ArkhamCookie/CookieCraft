@@ -1,0 +1,29 @@
+site_name: CookieCraft Wiki
+
+repo_url: https://github.com/ArkhamCookie/CookieCraft
+site_description: CookieCraft's Wiki
+site_author: ArkhamCookie
+copyright: CC BY-SA 4.0
+
+markdown_extensions:
+  - footnotes
+
+nav:
+  - Home: index.md
+  - User Guide:
+      - Installation: user-guide/installing.md
+      - Default Keybinds: user-guide/keybinds.md
+      - Mods: user-guide/mods.md
+      - Resource Packs: user-guide/resourcepacks.md
+  - Creator Guide:
+      - Forking: creator-guide/forking.md
+  - Bugs:
+      - Reporting Bugs: reporting-bugs.md
+      - Bug Tracker: https://github.com/ArkhamCookie/CookieCraft/issues
+  - About:
+      - About Overview: about.md
+      - Project Code of Conduct: CODE_OF_CONDUCT.md
+      - Licensing: licensing.md
+      - Project Goals: GOALS.md
+      - Contrubiting: CONTRIBUTING.md
+
