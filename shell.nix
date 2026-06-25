@@ -6,6 +6,7 @@ in
 pkgs.mkShellNoCC {
 	packages = with pkgs; [
 		just
+		mkdocs
 		packwiz
 	];
 }
