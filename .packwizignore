@@ -2,4 +2,4 @@ README.md
 .editorconfig
 docs/
 justfile
-
+shell.nix
