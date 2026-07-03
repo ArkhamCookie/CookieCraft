@@ -9,4 +9,4 @@ Another core goal of this pack is to be easily maintainable.
 If you don't like the default configs, simply fork it!
 It even comes with a permissive license, so you are free to do **whatever** you'd like with the modpack.
 
-For more about how to fork and maintain the modpack, please read our [wiki](https://arkhamcookie.github.io/CookieCraft).
+For more about how to fork and maintain the modpack, please read our [wiki](https://arkhamcookie.github.io/CookieCraft), specifically the [forking section](https://arkhamcookie.github.io/CookieCraft/creator-guide/forking/).
