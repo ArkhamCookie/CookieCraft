@@ -29,7 +29,8 @@ Although, the Modrinth App **should** work when downloading from Modrinth.
 
 ## Installing in Prism
 
-1. Create a new instance
-2. Select import
-3. Select your local build/download of the modpack
-4. Click Ok
+1. Download, install, and launch [Prism Launcher](https://prismlauncher.org)
+2. Click `Add Instance`
+3. Select `Import`
+4. Select your local build/download of the modpack
+5. Click `Ok`
