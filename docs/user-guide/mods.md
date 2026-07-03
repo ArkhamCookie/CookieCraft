@@ -19,7 +19,7 @@
 | [Sodium](https://modrinth.com/mod/sodium) | Sodium is a powerful optimization mod for the Minecraft client, which greatly improves frame rates and micro-stutter, while fixing many graphical issues in Minecraft. | PolyForm Shield[^1] |
 | [Tweakeroo](https://modrinth.com/mod/tweakeroo) | Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc. | LGPL-3.0-only |
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | Minecraft Fabric mod which allows you to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, April Fools, Bedrock) | GPL-3.0 |
-[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | Your options shall be respected. | LGPL-3.0 |
+| [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) | Your options shall be respected. | LGPL-3.0 |
 
 ## Libraries
 
