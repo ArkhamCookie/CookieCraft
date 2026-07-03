@@ -33,4 +33,3 @@ Although, the Modrinth App **should** work when downloading from Modrinth.
 2. Select import
 3. Select your local build/download of the modpack
 4. Click Ok
-
