@@ -32,7 +32,7 @@ jobs:
       - name: Build Site
         run: mkdocs build
       - name: Upload site
-        run: actions/upload-page-artifact@v4
+        run: actions/upload-pages-artifact@v3
   deploy:
     environment:
       name: github-pages
