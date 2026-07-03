@@ -17,6 +17,7 @@ nav:
       - Resource Packs: user-guide/resourcepacks.md
   - Creator Guide:
       - Forking: creator-guide/forking.md
+      - Manging Mods: creator-guide/managing-mods.md
   - Bugs:
       - Reporting Bugs: reporting-bugs.md
       - Bug Tracker: https://github.com/ArkhamCookie/CookieCraft/issues
