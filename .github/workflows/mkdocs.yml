@@ -32,7 +32,8 @@ jobs:
       - name: Build Site
         run: mkdocs build
   deploy:
-    environment: github-pages
+    environment:
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
