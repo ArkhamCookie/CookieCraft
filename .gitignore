@@ -2,3 +2,6 @@ build
 
 # Exclude exported Modrinth packs
 *.mrpack
+
+# Exclude mkdocs site
+site/
