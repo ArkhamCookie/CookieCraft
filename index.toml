@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/mkdocs.yml"
+hash = "7f5e36883f7459054ba6f363bf1299d01f334dd571a12e76a6c3c10aa69e9121"
+
+[[files]]
 file = "LICENSE"
 hash = "63118fa04b09c329b9c43339c3e4d282102404be89db6c9d734c9cce1fba1785"
 
@@ -77,6 +81,10 @@ file = "config/yosbr/resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
 hash = "731182aa1ef7fca269004c315630bae2135000e1d64e289a8aa91835f5a6f961"
 
 [[files]]
+file = "mkdocs.yml"
+hash = "6d5a310727e4a5c512f62051f8216937deb267095052047098d3fddc0e784f5d"
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
 metafile = true
@@ -98,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+hash = "3dda058a34855fad435a3882adc0af253b5a3e0212349ab882bddc7155d34c86"
 metafile = true
 
 [[files]]
@@ -108,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
 metafile = true
 
 [[files]]
@@ -118,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c8b294d6eaab29151eb2884525b962ef5506e8fc83d31ea839dbc3d30bd99651"
+hash = "de6e574d9b3cc0a100908658490c8a5a6963bb76cd1b127c696f30d700685607"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "90d5603faf196b9c30274831dd042935311202a58baaa7c7e2e50df6198d85e3"
+hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
@@ -133,12 +141,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "131f57b021106646b1d243e94154092ba85dd70d5b8c698085fea0008570f46c"
+hash = "2ab016778787b807a892102b00286346b72cb950d52a63095ce59be63177ce0c"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "1521e14b09f495910837d440057d1b29e96fba81fdb2148b6ac60d9474169872"
+hash = "c6c8a308ea0716492e599be63ac94e806789215a40186b8d880f293aa7462d31"
 metafile = true
 
 [[files]]
@@ -173,17 +181,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "93bd34ca9f2dc7f64a2e0f286dde23ccff88eb15e39dc86246fd71438400c47f"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6557d217f2ec39850a73945d0d3cdd037b631f87342ecf48c0e921d7e44e44af"
+hash = "4295e14e6d11ca0884a52ed65b2435546ff5f323961afba5563e1e8aaca4cf70"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "ca338befa89999f7edb28c1c457d06d8247d29d9d22adacedf0b1417685cd3aa"
+hash = "457a66217e353fee4f9bfab461d5adcaa6cbc6cbce94f5c91409a888c33fcf4f"
 metafile = true
 
 [[files]]
@@ -198,10 +206,190 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
-hash = "ae6f7af51e842cc854710828f803515de88f37e6b96d68f0624ba5623dd58f73"
+hash = "969f3e22e70a443301d500962439310c5b8db7ecf54681b642649a7f26b11e3f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "98a89237c10b7608fcc9b6978a4aeacc1b16e104a6a2e41f390050b6515595c6"
 metafile = true
+
+[[files]]
+file = "site/404.html"
+hash = "8dc084eb04eece1ecc7f36b21adddb94477b5f775cc635848b54c2bdea728ac9"
+
+[[files]]
+file = "site/CODE_OF_CONDUCT/index.html"
+hash = "9dea1a37fc18e3f7ee959b8e5b340a0355b6b3f41601b6b82fd17952d6500eb4"
+
+[[files]]
+file = "site/CONTRIBUTING/index.html"
+hash = "8c22a31110b8600382964149cb82fa731c2c4edfef0bf6bf6cf1231e1e434bd3"
+
+[[files]]
+file = "site/GOALS/index.html"
+hash = "a554413607a2e79370efb25427c0ee6eda71aae581a8c08e9946b3d174785e32"
+
+[[files]]
+file = "site/about/index.html"
+hash = "fa5f42d0d85630e566599c8cee55fd602dd3b8b8db55bb1eb203a47032a8a727"
+
+[[files]]
+file = "site/assets/logo-resized.png"
+hash = "ae027cf39bfe785e49e68d5e5117419d1c92ab519100416752fa4bf674cdbb95"
+
+[[files]]
+file = "site/assets/logo.png"
+hash = "9a9705a3af9a743d8befeb66446567be59b6188596d2ab81ff75a4540d300664"
+
+[[files]]
+file = "site/assets/logo.svg"
+hash = "ec4e217da38c2adaa24f49adcaecb9e03b5e0ccdd9a36a714ba0d9cdb88b371d"
+
+[[files]]
+file = "site/creator-guide/forking/index.html"
+hash = "edfb05ec0a4db5e27b69da5159f05f2df3e300cbd879508956bd7d56a0434a03"
+
+[[files]]
+file = "site/creator-guide/managing-mods/index.html"
+hash = "7eac83576eb10b307bc7e1e51d1baa11de9bb66d58099d3d1225e61fbdd17200"
+
+[[files]]
+file = "site/css/base.css"
+hash = "0dae4dbc308f8eb108946a660d1ec829a1fcb4baca07d7ea17f14244bd8f8a91"
+
+[[files]]
+file = "site/css/bootstrap.min.css"
+hash = "51600b05b09b6cceb8f4865afeb61320b0e69df73e7d7b99410d9ac18042848b"
+
+[[files]]
+file = "site/css/bootstrap.min.css.map"
+hash = "58b97e279a493d3b06ab973c6b35f9f4b8018c8d8acb0242990702f07ca66708"
+
+[[files]]
+file = "site/css/brands.min.css"
+hash = "321e5ebea077d3b3be03f5b0218ceab2259cf6e93035aa8644e7970a054fd687"
+
+[[files]]
+file = "site/css/fontawesome.min.css"
+hash = "8eb5b44ce5971a501e5a17954c464b80aba0c4604675b5603a7f456459af88a1"
+
+[[files]]
+file = "site/css/solid.min.css"
+hash = "b8afa4243dd1bf735f512708da5335b0ed314d9e58a0a1cf1b781250cf5fb004"
+
+[[files]]
+file = "site/css/v4-font-face.min.css"
+hash = "8698ebb2a30433065f31e392cf0e56a7fbe97798da673163606242c7ca85aee6"
+
+[[files]]
+file = "site/img/favicon.ico"
+hash = "f16b45bd53fbacaa2cd8f22e8482db5c59e0cef9bd21394474a429a18a98ffd0"
+
+[[files]]
+file = "site/img/grid.png"
+hash = "6e2a58503494a708105ac646d3af5c08c8c890325bb781a257d10f91ff968a9c"
+
+[[files]]
+file = "site/index.html"
+hash = "5ba5bf49ffedea7e636a4e4846cbedf8dd161cc399dbdf8919403c96510e9c61"
+
+[[files]]
+file = "site/js/base.js"
+hash = "ea13d8449c21e5a4e5235722e67bfbf45009e8c61cbe8e98e453cc39f46419ed"
+
+[[files]]
+file = "site/js/bootstrap.bundle.min.js"
+hash = "82f64f62bb03c1bc1824b0f9c9e05f70dba33e146818e63cdf5c306c8cf3dedd"
+
+[[files]]
+file = "site/js/bootstrap.bundle.min.js.map"
+hash = "19a5b0b88d24d6b154c4462896c9631c0b317d71f22eebbf0b9e405db4351fd1"
+
+[[files]]
+file = "site/js/darkmode.js"
+hash = "6660ca90a0b34be68edd0503102d013e6d4ea2d4ed8ffdca1ef17e2b69226d90"
+
+[[files]]
+file = "site/licensing/index.html"
+hash = "66ed2b307c6ba5b105efe2a43ad94a48e1f0ae24223f658583441f4b432356db"
+
+[[files]]
+file = "site/reporting-bugs/index.html"
+hash = "b1dbb29a7aa3f3f9732ae7b3c4f80e609759ca0a4a758f09f75730cf5c843bb0"
+
+[[files]]
+file = "site/search/lunr.js"
+hash = "c1a28d9e95163292fbcc07ff794f1f0e1ade8741c513afe96d5b1046a18110bc"
+
+[[files]]
+file = "site/search/main.js"
+hash = "22961b345ceba9b3a9146577190672a7b1c6881bb84c05bec1e2d0f3a3312389"
+
+[[files]]
+file = "site/search/search_index.json"
+hash = "4d7d5c96fc4476514b18f6d649314e2a1433e872d5ecc4c434a1a68749791ca4"
+
+[[files]]
+file = "site/search/worker.js"
+hash = "b486eab6682d02b7c6ec7bdc965bb051661ee2c6a42bb3442b559cb2c6e2c73c"
+
+[[files]]
+file = "site/sitemap.xml"
+hash = "33f57ce73974cb669d46fcc9027a02c65647fc797b4cb9c86f503eea5ff11a62"
+
+[[files]]
+file = "site/sitemap.xml.gz"
+hash = "be3d5065896b150b40928eef69a0ccc58d8239dae573bdba3cb8115b41fa196d"
+
+[[files]]
+file = "site/user-guide/installing/index.html"
+hash = "2eed93a3eaa2955ebceb0c1719b99a2b3c8cc2d52aa49c21eabc14389fa8890c"
+
+[[files]]
+file = "site/user-guide/keybinds/index.html"
+hash = "0e658eff546087a1ab186505b86c757891f1b9872539187cd2c5a45649d013a8"
+
+[[files]]
+file = "site/user-guide/mods/index.html"
+hash = "b6afa92e2276ce4855f52407724757c716d0a0bb6fcc31b9368bb85e519159ff"
+
+[[files]]
+file = "site/user-guide/resourcepacks/index.html"
+hash = "7f6b7cd2bfd0feeebce1acca616719a2f90d9869745c7d2133aa419cbedb5e0d"
+
+[[files]]
+file = "site/user-guide/updating/index.html"
+hash = "76448edc815b3cb4144d368d7339bc0e2d73aa4b162f045e7353adf5b1ca6ea0"
+
+[[files]]
+file = "site/webfonts/fa-brands-400.ttf"
+hash = "5656d596bc597165a42182f67b2b9f17d2ae47a9e3ef1b042b9a729739730705"
+
+[[files]]
+file = "site/webfonts/fa-brands-400.woff2"
+hash = "3a8924cd5203a28628716aedb5cef0943da4c3b44e3ffcee90ab06387b41c490"
+
+[[files]]
+file = "site/webfonts/fa-regular-400.ttf"
+hash = "5d02dc9b858e3c85a794f87e379857f4fedc4e26cf15001714a9a0e0b1d2294d"
+
+[[files]]
+file = "site/webfonts/fa-regular-400.woff2"
+hash = "2bccecf0bc7e96cd5ce4003abeb3ae9ee4a3d19158c4e6edfd2df32d2f0d5721"
+
+[[files]]
+file = "site/webfonts/fa-solid-900.ttf"
+hash = "fbbf06d7437aa30f3cd44c968380193545a8fc3eadfb7ad897bbb101eefec5a2"
+
+[[files]]
+file = "site/webfonts/fa-solid-900.woff2"
+hash = "9fc85f3a4544ab0d570c7f8f9bbb88db8d92c359b2707580ea8b07c75673eae2"
+
+[[files]]
+file = "site/webfonts/fa-v4compatibility.ttf"
+hash = "09663a36fc05e7190af8324b855105c5bb511ad94f94b81b34afee503279eca2"
+
+[[files]]
+file = "site/webfonts/fa-v4compatibility.woff2"
+hash = "4d4a2d7fd1c6684845cb174fdd7fc073bd64cb741286fb247f8b76c2b7b852c4"
