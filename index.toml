@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+hash = "3dda058a34855fad435a3882adc0af253b5a3e0212349ab882bddc7155d34c86"
 metafile = true
 
 [[files]]
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
 metafile = true
 
 [[files]]
@@ -118,12 +118,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c8b294d6eaab29151eb2884525b962ef5506e8fc83d31ea839dbc3d30bd99651"
+hash = "de6e574d9b3cc0a100908658490c8a5a6963bb76cd1b127c696f30d700685607"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "90d5603faf196b9c30274831dd042935311202a58baaa7c7e2e50df6198d85e3"
+hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
@@ -133,12 +133,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "131f57b021106646b1d243e94154092ba85dd70d5b8c698085fea0008570f46c"
+hash = "2ab016778787b807a892102b00286346b72cb950d52a63095ce59be63177ce0c"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "1521e14b09f495910837d440057d1b29e96fba81fdb2148b6ac60d9474169872"
+hash = "c6c8a308ea0716492e599be63ac94e806789215a40186b8d880f293aa7462d31"
 metafile = true
 
 [[files]]
@@ -173,17 +173,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "93bd34ca9f2dc7f64a2e0f286dde23ccff88eb15e39dc86246fd71438400c47f"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6557d217f2ec39850a73945d0d3cdd037b631f87342ecf48c0e921d7e44e44af"
+hash = "4295e14e6d11ca0884a52ed65b2435546ff5f323961afba5563e1e8aaca4cf70"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "ca338befa89999f7edb28c1c457d06d8247d29d9d22adacedf0b1417685cd3aa"
+hash = "457a66217e353fee4f9bfab461d5adcaa6cbc6cbce94f5c91409a888c33fcf4f"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
-hash = "ae6f7af51e842cc854710828f803515de88f37e6b96d68f0624ba5623dd58f73"
+hash = "969f3e22e70a443301d500962439310c5b8db7ecf54681b642649a7f26b11e3f"
 metafile = true
 
 [[files]]
