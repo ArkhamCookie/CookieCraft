@@ -77,10 +77,6 @@ file = "config/yosbr/resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
 hash = "731182aa1ef7fca269004c315630bae2135000e1d64e289a8aa91835f5a6f961"
 
 [[files]]
-file = "mkdocs.yml"
-hash = "6d5a310727e4a5c512f62051f8216937deb267095052047098d3fddc0e784f5d"
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
 metafile = true
