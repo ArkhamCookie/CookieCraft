@@ -21,6 +21,7 @@ nav:
   - Bugs:
       - Reporting Bugs: reporting-bugs.md
       - Bug Tracker: https://github.com/ArkhamCookie/CookieCraft/issues
+      - To-do List: TODO.md
   - About:
       - About Overview: about.md
       - Project Code of Conduct: CODE_OF_CONDUCT.md
