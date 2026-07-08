@@ -9,7 +9,7 @@ Another core goal of this pack is to be easily maintainable.
 If you don't like the default configs, simply fork it!
 It even comes with a permissive license, so you are free to do **whatever** you'd like with the modpack.
 
-For more about how to fork and maintain the modpack, please read our [docs](./docs/) or [wiki](https://arkhamcookie.github.io/CookieCraft). [^1]
+For more about how to fork and maintain the modpack, please read our [docs](./docs/) or [wiki](https://arkhamcookie.github.io/CookieCraft).
 
 ## Attributions
 
@@ -21,4 +21,3 @@ The logo is [OpenMoji](https://openmoji.org)'s [Cookie](https://openmoji.org/lib
 
 [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) has excellent [documentation](https://wiki.download.fo/) listing the mods and why they are included.
 
-[^1]: Docs are currently a **work in progress**
