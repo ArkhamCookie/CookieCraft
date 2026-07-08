@@ -12,4 +12,4 @@ The documentation for this project is licensed under
 This means you are free to share and adapt the documentation as long as you give credit and use the same license.
 
 The documentation is anything on this wiki;
-That is anything in [`docs/`](https://github,com/ArkhamCookie/CookieCraft/tree/main/docs) on GitHub.
+That is anything in [`docs/`](https://github.com/ArkhamCookie/CookieCraft/tree/main/docs) on GitHub.
