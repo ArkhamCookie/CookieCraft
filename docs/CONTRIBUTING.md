@@ -1,6 +1,7 @@
 # Contributing
 
 Information on how you can help contribute to CookieCraft.
+You can find open issues on [our bug tracker](https://github.com/ArkhamCookie/CookieCraft/issues) or look at our [to-do list page](TODO.md).
 
 ## Setup Your Environment
 
