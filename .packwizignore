@@ -1,6 +1,7 @@
 README.md
 .editorconfig
 docs/
+mkdocs.yml
 justfile
 shell.nix
 site/
