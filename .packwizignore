@@ -3,3 +3,6 @@ README.md
 docs/
 justfile
 shell.nix
+site/
+.github/
+
