@@ -9,5 +9,8 @@ reinit pack_version game_version:
 build:
 	packwiz mr export
 
+update:
+	packwiz update --all
+
 serve-docs:
 	mkdocs serve
