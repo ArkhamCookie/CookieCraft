@@ -78,7 +78,7 @@ hash = "731182aa1ef7fca269004c315630bae2135000e1d64e289a8aa91835f5a6f961"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
+hash = "73326213899af53071fedc242ad04f0c8fc45cf7151d8fadcc35550970a72e51"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7acfb9e9d7b052728f518574f1e79d20a2ec3296e147fbd3794b033fef381947"
+hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9c0841e3426cc58863e4c883f191329334940827d87615fd7c7484547861d867"
+hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
 
 [[files]]
@@ -203,5 +203,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "98a89237c10b7608fcc9b6978a4aeacc1b16e104a6a2e41f390050b6515595c6"
+hash = "e3e9969aba842a573092443612c2289a22568a1fe9f02e434bcb0ed1ac8c1206"
 metafile = true
