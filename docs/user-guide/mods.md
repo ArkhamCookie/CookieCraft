@@ -5,6 +5,7 @@
 | [BetterF3](https://modrinth.com/mod/betterf3) | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | MIT |
 | [Bobby](https://modrinth.com/mod/bobby) | Allows for render distances greater than the server's view-distance. | LGPL-3.0-only |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduce resource usage while Minecraft is in the background, idle, or on battery. | MIT |
+| [Extreme Sound Muffler](https://modrinth.com/mod/extreme_sound_muffler) | Allows you to muffle sounds selectively | LGPL-3.0-only |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | MIT |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | LGPL-3.0 |
 | [Litematica](https://modrinth.com/mod/litematica) | A client-side schematic mod with extra features for creative mode work | LGPL-3.0-only |
