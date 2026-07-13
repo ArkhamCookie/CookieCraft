@@ -14,7 +14,7 @@
 | [Mini HUD](https://modrinth.com/mod/minihud) | A "mini F3" HUD mod, also with various overlays like light level, spawn chunks, slime chunks etc. | LGPL-3.0-only |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Adds a mod menu to view the list of mods you have installed. | MIT |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Makes chat unreportable (where possible) | WTFPL |
-| [No Chat Restructions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts | WTFPL |
+| [No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions) | Restores access to game chat for all accounts | WTFPL |
 | [No Telemetry](https://modrinth.com/mod/no-telemetry) | Disable the telemetry introduced in 21w38a | MPL-2.0 |
 | [Respackopts](https://modrinth.com/mod/respackopts) | Config menus for resource packs | MIT |
 | [Sodium](https://modrinth.com/mod/sodium) | Sodium is a powerful optimization mod for the Minecraft client, which greatly improves frame rates and micro-stutter, while fixing many graphical issues in Minecraft. | PolyForm Shield[^1] |
