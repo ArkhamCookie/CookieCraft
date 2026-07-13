@@ -9,6 +9,9 @@ reinit pack_version game_version:
 build:
 	packwiz mr export
 
+clean:
+	rm ./CookieCraft-*.mrpack
+
 update:
 	packwiz update --all
 
