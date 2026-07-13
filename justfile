@@ -10,7 +10,8 @@ build:
 	packwiz mr export
 
 clean:
-	rm ./CookieCraft-*.mrpack
+	rm ./CookieCraft-*.mrpack || echo "No mrpacks to remove"
+	rm -r ./site || echo "No site to clean"
 
 update:
 	packwiz update --all
