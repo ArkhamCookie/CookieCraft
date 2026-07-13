@@ -33,6 +33,10 @@ file = "config/yosbr/config/dynamic_fps.json"
 hash = "3c9351337f023bf6add1f346eed73ae82408753f75b32b934a891ab72b00b10b"
 
 [[files]]
+file = "config/yosbr/config/extremesoundmuffler.json5"
+hash = "1577b392b300c36df717d3f874b7f1f2708de6aad56fdffabf5b44b2ee4548e1"
+
+[[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "d556c0a15d025090c0b57d15126be718efe328854cc2cc0385ab9c64676d1c91"
 
