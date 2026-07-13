@@ -13,8 +13,9 @@ clean:
 	rm ./CookieCraft-*.mrpack || echo "No mrpacks to remove"
 	rm -r ./site || echo "No site to clean"
 
+serve-docs:
+	mkdocs serve
+
 update:
 	packwiz update --all
 
-serve-docs:
-	mkdocs serve
