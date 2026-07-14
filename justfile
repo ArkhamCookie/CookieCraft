@@ -25,3 +25,8 @@ serve-docs:
 update:
 	packwiz update --all
 
+# print pack version & minecraft version
+version:
+	sed -n '3p' pack.toml
+	sed -n '13p' pack.toml
+
