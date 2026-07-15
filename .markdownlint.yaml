@@ -1,0 +1,9 @@
+# Config file for markdownlint-cli2
+
+# Disable line length checks
+MD013: false
+
+# Disable mulitple blank lines rule
+# (It seems to trigger if there is a blank line at the end of the file)
+MD012: false
+

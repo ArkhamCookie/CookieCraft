@@ -4,3 +4,9 @@ rev = "v6.0.0"
 hooks = [
 ]
 
+[[repos]]
+repo = "https://github.com/DavidAnson/markdownlint-cli2"
+rev = "v0.23.0"
+hooks = [
+	{ id = "markdownlint-cli2" },
+]
