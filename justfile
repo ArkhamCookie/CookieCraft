@@ -17,9 +17,18 @@ clean:
 	rm ./CookieCraft-*.mrpack || echo "No mrpacks to remove"
 	rm -r ./site || echo "No site to clean"
 
+# lint staged files
+lint:
+	prek run markdownlint-cli2 # lint staged markdown files
+	prek run trailing-whitespace # lint all staged files to trailing whitespace
+
 # serve the docs locally
 serve-docs:
 	mkdocs serve
+
+# install githooks
+setup:
+	prek install -f
 
 # update all mods in pack
 update:

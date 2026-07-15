@@ -8,6 +8,7 @@ pkgs.mkShellNoCC {
 		just
 		mkdocs
 		packwiz
+		prek
 	];
 }
 
