@@ -6,4 +6,4 @@ justfile
 shell.nix
 site/
 .github/
-
+prek.toml
