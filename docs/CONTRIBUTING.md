@@ -10,6 +10,8 @@ You can find open issues on [our bug tracker](https://github.com/ArkhamCookie/Co
 For this repo we use [Nix](https://en.wikipedia.org/wiki/Nix_(package_manager)) to make tooling easy.
 All you have to do is [install Nix](https://nixos.org/download/) and run `nix-shell` in the project directory to have all the tools required for this repo working.
 
+Then, to install the git hooks, you can just run `just setup`.
+
 ### Not Using Nix (Not Recommended)
 
 If you choose to not use Nix,
@@ -20,6 +22,9 @@ Currently this project uses these tools:
 - [just](https://just.systems)
 - [mkdocs](https://www.mkdocs.org/)
 - [packwiz](https://packwiz.infra.link/)
+- [prek](https://prek.j178.dev/)
+
+Then, to install the git hooks, you can just run `just setup`.
 
 ## Documentation
 
