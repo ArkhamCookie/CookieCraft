@@ -19,7 +19,7 @@ clean:
 
 # lint staged files
 lint:
-	prek run
+	prek run markdownlint-cli2 # lint staged markdown files
 
 # serve the docs locally
 serve-docs:
