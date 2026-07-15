@@ -25,6 +25,10 @@ lint:
 serve-docs:
 	mkdocs serve
 
+# install githooks
+setup:
+	prek install -f
+
 # update all mods in pack
 update:
 	packwiz update --all
