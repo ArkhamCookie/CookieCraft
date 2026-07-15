@@ -4,3 +4,4 @@ rev = "v6.0.0"
 hooks = [
 	{ id = "end-of-file-fixer" },
 ]
+

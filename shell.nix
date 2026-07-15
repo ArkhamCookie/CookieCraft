@@ -11,3 +11,4 @@ pkgs.mkShellNoCC {
 		prek
 	];
 }
+
