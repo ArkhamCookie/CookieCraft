@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
+hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "76ae8e8106fef457a0bc83ab7969471f6321be430d8d56176b3dff25b53dde34"
+hash = "dbbc00eb309b2104e4f99f1a76d4c090b0ba9c8c836d5726f138d914552ff36e"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b7e98520b66f5a11f8a4ad84e518de34d97d1ca84152f3a427d9e7820299fbdd"
+hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
 metafile = true
 
 [[files]]
 file = "mods/locator-heads.pw.toml"
-hash = "f516a0148ff05ed182676d12896f0e63c0323f935b26dc4df2cf5f8df9a06c44"
+hash = "02f7e7f511f7654b4b3d3c1156ecb1fbf633e382e9bea8d12979c9b7d42cde19"
 metafile = true
 
 [[files]]
@@ -177,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "b1f04454e266b05c7d316d344b46fbab66893acfceea219901402fe56dc8586d"
+hash = "2c5b72f2e72b328d1506b3dea227fd701a0d70cc6a88e30da57a62230a49bd88"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
 metafile = true
 
 [[files]]
@@ -196,13 +196,18 @@ hash = "96976d1ccdc9f7efb536193cb302e034c0c3483d6f77bcc1d6e46c2b25c2b794"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "94836799b27c943c1e86c623d4123efe23ba2da2399421a8d5fad33215dccaae"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "resourcepacks/low-fire-on-hud.pw.toml"
-hash = "43fa87988ddce57c434dac04fe2087e3b9f4187b9d89ec61b7ddaba5733f0878"
+hash = "cd4d156fe5bdc2166c303eb37f73ac32922d58fec03b714563e793c52e6c84d8"
 metafile = true
 
 [[files]]
