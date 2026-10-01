@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "6aa6fc02efa9425dfc36c5083ae0d8723cececcb2b96ff32a7f917ad988dbcb5"
+hash = "ede6801b1cdd49e94d56355ff9a7659fb312bc3aac3882dac629004f3e01fe3e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
 metafile = true
 
 [[files]]
@@ -117,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
+hash = "fcd0dedf8a47b5e5e298cb9e26fe8f9bb3be8ac892e7ad238f8f781c0faaf2bd"
 metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "dbbc00eb309b2104e4f99f1a76d4c090b0ba9c8c836d5726f138d914552ff36e"
+hash = "ee8a76a95aa9202ec212666985d83683d42dbff03f6e376029d33ed7648e59af"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "009d9135e8d02bc34226c7451b792421026fd94d40d2da7b10adfe56b50873b5"
+hash = "737265495e3e1727d41d80ae57acbd8839e243331f0d2057a77433088e66c028"
 metafile = true
 
 [[files]]
@@ -142,27 +142,27 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "09810fca32fe0ef88987b60c6aeac290d8ae2463988e77c164011b09756e1845"
+hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c0f7962965342e52e79ccef61a3b2bc70c51250bbb38bc26929d8b09ba6d926c"
+hash = "c4e9775beb3fa4a3e9db0a53881eb531bafd39580a786d200e5ff18da2b69409"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
+hash = "dc9906e45919f5b3a31e3d5582cd97bdd7534f56c2a5e730b9de41875a97e1eb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
+hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "0476f5ed0b316f0d014a70515b1e947ed9591804b139b928d1ad8d35877e1e01"
+hash = "e5f050a63a09ef8bc4d4616b9a16024385968212cf757c208208490b274043ac"
 metafile = true
 
 [[files]]
@@ -177,22 +177,22 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "2c5b72f2e72b328d1506b3dea227fd701a0d70cc6a88e30da57a62230a49bd88"
+hash = "d03c004135204792ca6e7e6752cfa59bbe14ed533b6bbfa73f4b4dd354b9b0d9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
+hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2c69879bd658f8d39e5b41964c483a5c841c21edb85b141511ea9d25f3b68fcf"
+hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "96976d1ccdc9f7efb536193cb302e034c0c3483d6f77bcc1d6e46c2b25c2b794"
+hash = "3679f1e16ec7dad38e1eb911c31a0fdd9de9e88117d0fb98b4be9ecb3302761d"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
-hash = "969f3e22e70a443301d500962439310c5b8db7ecf54681b642649a7f26b11e3f"
+hash = "104d7973fb55c626ef90839e62aede8c76356a67be534868dd09311e564880be"
 metafile = true
 
 [[files]]
