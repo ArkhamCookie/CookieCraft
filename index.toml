@@ -22,7 +22,7 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "c25a8aa17d7be2f81d3a8e7fe469a8181f076c8d8e0e1b5d7bbefe208f8bd8fe"
+hash = "3ee5342d8dfdd5a7a653ee066a83898246d02ef2a053eb74f8804bf83ced9c5f"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
