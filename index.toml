@@ -6,7 +6,7 @@ hash = "63118fa04b09c329b9c43339c3e4d282102404be89db6c9d734c9cce1fba1785"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "11222c38ce6905815fd757473b3c478fb46acc79fa2e5133105bbed298b46b0b"
+hash = "f90ac626304b1847162bc835f4d871a6f41cec6cfef3d2c1129b17fb6dad66ea"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -17,12 +17,12 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+file = "config/yosbr/config/NoChatRestrictions.json"
+hash = "226aa8ba6f4cb24461d4df5f552affc6f400bc467d63903c983b1bed721e4bbd"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "3ee5342d8dfdd5a7a653ee066a83898246d02ef2a053eb74f8804bf83ced9c5f"
+hash = "0c7d832a3c79ada0cb392ea945d12ed8335bb6ff82b750cce41408c87a2bfa03"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -38,27 +38,27 @@ hash = "1577b392b300c36df717d3f874b7f1f2708de6aad56fdffabf5b44b2ee4548e1"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "d556c0a15d025090c0b57d15126be718efe328854cc2cc0385ab9c64676d1c91"
+hash = "16f3547eb3df6aff6ae014ab0a96df4fb4453f98ba53a0df437f857f3c56d078"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
+hash = "869c9d9969c018afd4faccf19b1028a7689866e1b83e1649e8ff161544bc1362"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "de5a87620f0cb86509422a417f5aa758f039cbb08411829609fcd0de3a166203"
+hash = "fd6b96cf2688f10040c442869bd981c8e1be744801eed7c2ae29ddc698b6ae95"
 
 [[files]]
 file = "config/yosbr/config/locator-heads.json"
-hash = "5481772ad0d112c317ad11a39ecd0b277b905a3cc8548916fbfedeb7367bda51"
+hash = "e5758662eb624ed4b6cfa9975079870e1c464deea8da13523f8fab28f0110a82"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
-hash = "85ca79ccc1896ec7168d0b61a4eca8ebfcbd096f46c37df07211952fa2d6f470"
+hash = "a78a37bf42ffe9cf069633bd448b0f92e520d999ea858e6b52a9c2ba706cd6d5"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "ad2bdb4c4f749fe50ce50c7a7c793a414f0ff9abfd5b959db50cc8b1c1cd84c4"
+hash = "1c4cbf71245db27e6eebe25353b3b47164b2ac7488f54c5326685cdd0d993b5a"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -66,11 +66,11 @@ hash = "c7559af0dfc87b7a4531c45c5d2d25e528f3fe4b599298c069fd949a0e6ee6f6"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "0c34e9630f481e6af9dac31ca068ff3ec95f761d95b4385ff52d20d24b8f4411"
+hash = "f6f002ae6ee1308b3c19b308cc5ea6be55f81c082d7e297270c51308ac8002a5"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "9b0a28a1049b6ec883494b6a77e3b23ffca162e97fb8016d4d8cae05dc5337d1"
+hash = "2c329781f4b34bbc9de2a176bf456997aeb43975a9785d64be758c21d8489912"
 
 [[files]]
 file = "config/yosbr/options.txt"
