@@ -6,7 +6,7 @@ hash = "63118fa04b09c329b9c43339c3e4d282102404be89db6c9d734c9cce1fba1785"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "11222c38ce6905815fd757473b3c478fb46acc79fa2e5133105bbed298b46b0b"
+hash = "f90ac626304b1847162bc835f4d871a6f41cec6cfef3d2c1129b17fb6dad66ea"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -17,12 +17,12 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+file = "config/yosbr/config/NoChatRestrictions.json"
+hash = "226aa8ba6f4cb24461d4df5f552affc6f400bc467d63903c983b1bed721e4bbd"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "c25a8aa17d7be2f81d3a8e7fe469a8181f076c8d8e0e1b5d7bbefe208f8bd8fe"
+hash = "0c7d832a3c79ada0cb392ea945d12ed8335bb6ff82b750cce41408c87a2bfa03"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -38,39 +38,39 @@ hash = "1577b392b300c36df717d3f874b7f1f2708de6aad56fdffabf5b44b2ee4548e1"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "d556c0a15d025090c0b57d15126be718efe328854cc2cc0385ab9c64676d1c91"
+hash = "16f3547eb3df6aff6ae014ab0a96df4fb4453f98ba53a0df437f857f3c56d078"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
+hash = "869c9d9969c018afd4faccf19b1028a7689866e1b83e1649e8ff161544bc1362"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "de5a87620f0cb86509422a417f5aa758f039cbb08411829609fcd0de3a166203"
+hash = "fd6b96cf2688f10040c442869bd981c8e1be744801eed7c2ae29ddc698b6ae95"
 
 [[files]]
 file = "config/yosbr/config/locator-heads.json"
-hash = "5481772ad0d112c317ad11a39ecd0b277b905a3cc8548916fbfedeb7367bda51"
+hash = "e5758662eb624ed4b6cfa9975079870e1c464deea8da13523f8fab28f0110a82"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
-hash = "85ca79ccc1896ec7168d0b61a4eca8ebfcbd096f46c37df07211952fa2d6f470"
+hash = "a78a37bf42ffe9cf069633bd448b0f92e520d999ea858e6b52a9c2ba706cd6d5"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "ad2bdb4c4f749fe50ce50c7a7c793a414f0ff9abfd5b959db50cc8b1c1cd84c4"
+hash = "1c4cbf71245db27e6eebe25353b3b47164b2ac7488f54c5326685cdd0d993b5a"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "3721cab4a79d01dd56aa2821c81963c8f8a9db0d009dad9e29630095ed0d7049"
+hash = "c7559af0dfc87b7a4531c45c5d2d25e528f3fe4b599298c069fd949a0e6ee6f6"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "0c34e9630f481e6af9dac31ca068ff3ec95f761d95b4385ff52d20d24b8f4411"
+hash = "f6f002ae6ee1308b3c19b308cc5ea6be55f81c082d7e297270c51308ac8002a5"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "9b0a28a1049b6ec883494b6a77e3b23ffca162e97fb8016d4d8cae05dc5337d1"
+hash = "2c329781f4b34bbc9de2a176bf456997aeb43975a9785d64be758c21d8489912"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "6aa6fc02efa9425dfc36c5083ae0d8723cececcb2b96ff32a7f917ad988dbcb5"
+hash = "ede6801b1cdd49e94d56355ff9a7659fb312bc3aac3882dac629004f3e01fe3e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
 metafile = true
 
 [[files]]
@@ -117,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
+hash = "fcd0dedf8a47b5e5e298cb9e26fe8f9bb3be8ac892e7ad238f8f781c0faaf2bd"
 metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "dbbc00eb309b2104e4f99f1a76d4c090b0ba9c8c836d5726f138d914552ff36e"
+hash = "ee8a76a95aa9202ec212666985d83683d42dbff03f6e376029d33ed7648e59af"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "009d9135e8d02bc34226c7451b792421026fd94d40d2da7b10adfe56b50873b5"
+hash = "737265495e3e1727d41d80ae57acbd8839e243331f0d2057a77433088e66c028"
 metafile = true
 
 [[files]]
@@ -142,27 +142,27 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "09810fca32fe0ef88987b60c6aeac290d8ae2463988e77c164011b09756e1845"
+hash = "7acf0e421b5d19448fb1572d10c481760a6ffe68f452b074b1fc8c993ce1556b"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c0f7962965342e52e79ccef61a3b2bc70c51250bbb38bc26929d8b09ba6d926c"
+hash = "c4e9775beb3fa4a3e9db0a53881eb531bafd39580a786d200e5ff18da2b69409"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
+hash = "dc9906e45919f5b3a31e3d5582cd97bdd7534f56c2a5e730b9de41875a97e1eb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
+hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "0476f5ed0b316f0d014a70515b1e947ed9591804b139b928d1ad8d35877e1e01"
+hash = "e5f050a63a09ef8bc4d4616b9a16024385968212cf757c208208490b274043ac"
 metafile = true
 
 [[files]]
@@ -177,22 +177,22 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "2c5b72f2e72b328d1506b3dea227fd701a0d70cc6a88e30da57a62230a49bd88"
+hash = "d03c004135204792ca6e7e6752cfa59bbe14ed533b6bbfa73f4b4dd354b9b0d9"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
+hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2c69879bd658f8d39e5b41964c483a5c841c21edb85b141511ea9d25f3b68fcf"
+hash = "84a1ee4078568898046061003cc26c78d65ad8466dd4ea77de2582eede127135"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "96976d1ccdc9f7efb536193cb302e034c0c3483d6f77bcc1d6e46c2b25c2b794"
+hash = "3679f1e16ec7dad38e1eb911c31a0fdd9de9e88117d0fb98b4be9ecb3302761d"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/no-pumpkin-blur.pw.toml"
-hash = "969f3e22e70a443301d500962439310c5b8db7ecf54681b642649a7f26b11e3f"
+hash = "104d7973fb55c626ef90839e62aede8c76356a67be534868dd09311e564880be"
 metafile = true
 
 [[files]]

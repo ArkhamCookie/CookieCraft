@@ -1,6 +1,7 @@
 {
 	"general": {
 		"disable_mod": false,
+		"performance_optimizations": true,
 		"hide_bossbar": true,
 		"shadow_text": true,
 		"auto_start": false,
@@ -20,21 +21,27 @@
 			"color_high": 5635925,
 			"color_med": 16777045,
 			"name": "fps",
+			"name_color": 16777215,
+			"value_color": 16777215,
 			"lines": {
 				"fps": true
 			},
 			"enabled": true,
 			"color_low": 16733525
-		}, 
+		},
 		{
 			"empty_lines": 1,
 			"name": "empty",
+			"name_color": 16777215,
+			"value_color": 16777215,
 			"lines": {
 				"nothing": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
+			"memory_color_toggle": true,
+			"time_format": "HH:mm:ss",
 			"name": "system",
 			"name_color": 16755200,
 			"value_color": 5636095,
@@ -52,7 +59,7 @@
 				"gpu": false
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"name": "miscright",
 			"name_color": 16645526,
@@ -61,7 +68,7 @@
 				"misc_right": true
 			},
 			"enabled": false
-		}, 
+		},
 		{
 			"enabled_color": 5635925,
 			"name": "help",
@@ -75,15 +82,17 @@
 				"pie_graph_new": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"empty_lines": 1,
 			"name": "empty",
+			"name_color": 16777215,
+			"value_color": 16777215,
 			"lines": {
 				"nothing": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"name": "entity",
 			"name_color": 16733525,
@@ -102,7 +111,7 @@
 				"misc": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"name": "target",
 			"name_color": 43775,
@@ -132,17 +141,19 @@
 				"minecraft": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"color_high": 5635925,
 			"color_med": 16777045,
 			"name": "fps",
+			"name_color": 16777215,
+			"value_color": 16777215,
 			"lines": {
 				"fps": true
 			},
 			"enabled": false,
 			"color_low": 16733525
-		}, 
+		},
 		{
 			"name": "graphics",
 			"name_color": 16755200,
@@ -155,7 +166,7 @@
 				"biome_blend_radius": true
 			},
 			"enabled": false
-		}, 
+		},
 		{
 			"name": "server",
 			"name_color": 11184810,
@@ -167,7 +178,7 @@
 				"tick_manager_status": true
 			},
 			"enabled": false
-		}, 
+		},
 		{
 			"name": "target",
 			"name_color": 43775,
@@ -186,21 +197,24 @@
 				"fluid_states": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"empty_lines": 1,
 			"name": "empty",
+			"name_color": 16777215,
+			"value_color": 16777215,
 			"lines": {
 				"nothing": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"color_x": 16733525,
 			"color_y": 5635925,
 			"color_z": 5636095,
 			"name": "coords",
 			"name_color": 16733525,
+			"value_color": 16777215,
 			"lines": {
 				"chunk_coords": false,
 				"player_coords": true,
@@ -211,7 +225,7 @@
 				"horizontal_velocity": true
 			},
 			"enabled": true
-		}, 
+		},
 		{
 			"name": "chunks",
 			"chunks_disabled_color": 16733525,
@@ -233,7 +247,7 @@
 			},
 			"chunks_enabled_color": 5635925,
 			"enabled": false
-		}, 
+		},
 		{
 			"name": "location",
 			"name_color": 43520,
