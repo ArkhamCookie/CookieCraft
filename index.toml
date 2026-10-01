@@ -62,7 +62,7 @@ hash = "ad2bdb4c4f749fe50ce50c7a7c793a414f0ff9abfd5b959db50cc8b1c1cd84c4"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "3721cab4a79d01dd56aa2821c81963c8f8a9db0d009dad9e29630095ed0d7049"
+hash = "c7559af0dfc87b7a4531c45c5d2d25e528f3fe4b599298c069fd949a0e6ee6f6"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
