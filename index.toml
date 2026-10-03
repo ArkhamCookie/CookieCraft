@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "0ce5eae1939616bbabab564ee3f620051bbafee15e294be8a435e1011745930e"
+hash = "0638709fd7e5e26f807f39251c9cbe8b400e0542775a5e26a5aef395a3d3c07b"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/low-fire-on-hud.pw.toml"
-hash = "cd4d156fe5bdc2166c303eb37f73ac32922d58fec03b714563e793c52e6c84d8"
+hash = "1fa5029745f979fe019384c7c3013d37a42940a8d3d8ddd879a6ef9ba61e379b"
 metafile = true
 
 [[files]]
@@ -217,5 +217,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "e3e9969aba842a573092443612c2289a22568a1fe9f02e434bcb0ed1ac8c1206"
+hash = "784770b9d54a6ab880c0b3905c64ccff0adfa07a7b152fc1a057bfdcfaad706a"
 metafile = true
