@@ -6,7 +6,7 @@ hash = "63118fa04b09c329b9c43339c3e4d282102404be89db6c9d734c9cce1fba1785"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "f90ac626304b1847162bc835f4d871a6f41cec6cfef3d2c1129b17fb6dad66ea"
+hash = "b057ba2a311fb84f02785f106348591e6aa3da77714023f54a4c33a69d186505"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -30,19 +30,19 @@ hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
 file = "config/yosbr/config/extremesoundmuffler.json5"
-hash = "1577b392b300c36df717d3f874b7f1f2708de6aad56fdffabf5b44b2ee4548e1"
+hash = "29e3ff55cb26d382121842f60e666b5c940ae596bb6b49859040b00966edd7bb"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "16f3547eb3df6aff6ae014ab0a96df4fb4453f98ba53a0df437f857f3c56d078"
+hash = "4216c648dd214ff8db8257f4294a0530e71aa5aa64f5576637c400be366e2637"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "869c9d9969c018afd4faccf19b1028a7689866e1b83e1649e8ff161544bc1362"
+hash = "351554b5d847acfb0dcdd05a93b5b93f27035178bcbde4d5193b4dc5a5a2f11b"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "fd6b96cf2688f10040c442869bd981c8e1be744801eed7c2ae29ddc698b6ae95"
+hash = "4ea8cf5b1ed6e44394ec5d390a441fd99a6f2fdba2b3fe2a307b025880cbf2b7"
 
 [[files]]
 file = "config/yosbr/config/locator-heads.json"
@@ -50,11 +50,11 @@ hash = "e5758662eb624ed4b6cfa9975079870e1c464deea8da13523f8fab28f0110a82"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
-hash = "a78a37bf42ffe9cf069633bd448b0f92e520d999ea858e6b52a9c2ba706cd6d5"
+hash = "ee8bd3e9335c6e092dc81a231c334575d1841e932481a05c77f969badcc6791a"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "1c4cbf71245db27e6eebe25353b3b47164b2ac7488f54c5326685cdd0d993b5a"
+hash = "362d219b549a3658a9f544f658550a411ceccd8ee0b3c39b8ccc2203f6a8b87e"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -66,7 +66,31 @@ hash = "f6f002ae6ee1308b3c19b308cc5ea6be55f81c082d7e297270c51308ac8002a5"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "2c329781f4b34bbc9de2a176bf456997aeb43975a9785d64be758c21d8489912"
+hash = "5e931390dfd0dc4c804f807c51d35f265e478eeb596e58ff8c1962ff9ae9ee7d"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/settings.json"
+hash = "634d316e90731a99194da8f4fc044089291c78c331edd73e2b242769e23b2430"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/viaaprilfools.yml"
+hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/viabackwards.yml"
+hash = "042e1fed6af642b7efaf00e359de20a81302c13083b69ba2933dfd09dbc81b7f"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/viabedrock.yml"
+hash = "faa2318294e9ae0ded2d836be486c2ffb184f7831d6c2594c501a6b5779369d4"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/vialegacy.yml"
+hash = "3c8e3c8cc81284f56e9e7e1209dc6a4eabdedcb15beffcf0830fbf4f5946acd3"
+
+[[files]]
+file = "config/yosbr/config/viafabricplus/viaversion.yml"
+hash = "9e9336c5b1d809341f8a0ebff2c20f8e59b6bccde9157e3b21e1d612c9f67994"
 
 [[files]]
 file = "config/yosbr/options.txt"
