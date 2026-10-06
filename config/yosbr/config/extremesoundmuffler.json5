@@ -1,6 +1,6 @@
 {
 	"General settings": {
-		/* Blacklisted Sounds - add the name of the sounds to blacklist, separated with comma. 
+		/* Blacklisted Sounds - add the name of the sounds to blacklist, separated with comma.
 		   Default: "ui.", "music.", "ambient."
 		*/
 		"forbiddenSounds": [
@@ -8,12 +8,22 @@
 			"music.",
 			"ambient."
 		],
-		/* General mod muffling, any sound from these mods will be muffled down to the provided volume. 
-		    Name of the mod and desired volume, separated by ":" 
-		    Example: "minecraft:50", "extremesoundmuffler:0".
-		   Default: Empty
+		/* Mods that shouldn't appear in the Mods section, sepparated by comma.
+		   Default: fabricloader, neoforge, java, mixinextras, fiber, extremesoundmuffler
 		*/
-		"modsMuffled": [],
+		"forbiddenMods": [
+			"fabricloader",
+			"neoforge",
+			"java",
+			"mixinextras",
+			"fiber",
+			"extremesoundmuffler"
+		],
+		/* Use global muffled sounds?
+		   Global muffled sounds are stored in the .minecraft folder while local muffled sounds are stored in the modpack folder
+		   Default: false
+		*/
+		"useGlobalMuffledSounds": false,
 		/* Allow the "ALL" sounds list to include the blacklisted sounds?
 		   Default: false
 		*/
@@ -27,7 +37,7 @@
 		   Default: false
 		*/
 		"leftButtons": false,
-		/* Show tips in the Muffler screen?
+		/* Allow Ko-Fi tip in the Muffler screen?
 		   Default: true
 		*/
 		"showTip": true,
@@ -41,12 +51,12 @@
 		   Default: false
 		*/
 		"disableInventoryButton": false,
-		/* Coordinates for the Muffler button in the player inventory. 
+		/* Coordinates for the Muffler button in the player inventory.
 		   You can change this in game by holding the RMB over the button and draging it around
 		   Default: 75
 		*/
 		"invButtonHorizontal": 81,
-		/* Coordinates for the Muffler button in the player inventory. 
+		/* Coordinates for the Muffler button in the player inventory.
 		   You can change this in game by holding the RMB over the button and draging it around
 		   Default: 7
 		*/
@@ -55,12 +65,12 @@
 		   Default: false
 		*/
 		"disableCreativeInventoryButton": false,
-		/* Coordinates for the Muffler button in the creative player inventory. 
+		/* Coordinates for the Muffler button in the creative player inventory.
 		   You can change this in game by holding the RMB over the button and draging it around
 		   Default: 2
 		*/
 		"creativeInvButtonHorizontal": 5,
-		/* Coordinates for the Muffler button in the creative player inventory. 
+		/* Coordinates for the Muffler button in the creative player inventory.
 		   You can change this in game by holding the RMB over the button and draging it around
 		   Default: 2
 		*/
@@ -76,4 +86,4 @@
 		*/
 		"maxAnchorRange": 32
 	}
-}}
+}

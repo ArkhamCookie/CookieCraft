@@ -57,12 +57,11 @@
     "highlightBlockInInventory": false,
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
-    "materialListContainerScan": false,
-    "materialListContainerScanShulkers": false,
-    "materialListContainerScanBundles": false,
+    "materialListCountEnderCache": false,
     "materialListIgnoreState": false,
     "materialListRecipeDetails": true,
     "pasteAlwaysUseFill": false,
+    "pasteAlwaysUsePersistent": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
     "pasteIgnoreCommandLimitWithNbtRestore": true,
@@ -171,7 +170,7 @@
       "keys": "M,L"
     },
     "openGuiPlacementSettings": {
-      "keys": "KP_SUBTRACT"
+      "keys": "KP_MINUS"
     },
     "openGuiSchematicPlacements": {
       "keys": "M,P"
@@ -192,13 +191,13 @@
       "keys": "LEFT_CONTROL"
     },
     "pickBlockFirst": {
-      "keys": "BUTTON_3"
+      "keys": "MOUSE_MIDDLE"
     },
     "pickBlockLast": {
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "M,BUTTON_3"
+      "keys": "M,MOUSE_MIDDLE"
     },
     "renderInfoOverlay": {
       "keys": "I"
@@ -324,13 +323,13 @@
       "keys": "M,T"
     },
     "toolPlaceCorner1": {
-      "keys": "BUTTON_1"
+      "keys": "MOUSE_LEFT"
     },
     "toolPlaceCorner2": {
-      "keys": "BUTTON_2"
+      "keys": "MOUSE_RIGHT"
     },
     "toolSelectElements": {
-      "keys": "BUTTON_3"
+      "keys": "MOUSE_MIDDLE"
     },
     "toolSelectModifierBlock1": {
       "keys": "LEFT_ALT"
@@ -435,6 +434,7 @@
     "ignoreExistingFluids": false,
     "ignoreExistingBlocks": false,
     "ignorableExistingBlocks": [],
+    "ignoreCropAge": false,
     "overlayReducedInnerSides": {
       "enabled": false,
       "hotkey": {

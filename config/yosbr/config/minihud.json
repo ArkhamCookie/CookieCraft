@@ -16,6 +16,7 @@
     "infoRotationPitch": 12,
     "infoBlockBreakSpeed": 6,
     "infoPlayerExperience": 0,
+    "infoSneaking": 16,
     "infoSpeed": 13,
     "infoSpeedAxis": 13,
     "infoSpeedHV": 13,
@@ -92,6 +93,8 @@
     "shapeCanDespawnSphere": "#60A04050",
     "shapeCanSpawnSphere": "#60A04050",
     "shapeCircle": "#6030B0B0",
+    "shapeSquare": "#6030B0B0",
+    "shapeRhombus": "#60B030B0",
     "shapeCone": "#60FFAA00",
     "shapeDespawnSphere": "#60A04050",
     "shapeLineBlocky": "#6030F0B0",
@@ -179,6 +182,7 @@
     "structuresRenderThrough": false,
     "structuresRenderOutlines": false,
     "structuresRenderOutlinesWhite": false,
+    "displayFileOpsFeedback": false,
     "translationLanguage": "en_us",
     "translationMode": "vanilla",
     "useCustomizedCoordinateFormat": true,
@@ -199,22 +203,7 @@
         }
       }
     },
-    "moveShapeToPlayer": {
-      "keys": ""
-    },
-    "openConfigGui": {
-      "keys": "H,C"
-    },
-    "requiredKey": {
-      "keys": ""
-    },
     "serverNbtRequestRate": 2,
-    "setDistanceReferencePoint": {
-      "keys": ""
-    },
-    "shapeEditor": {
-      "keys": ""
-    },
     "blockGridOverlayMode": "all",
     "lightLevelMarkerCondition": "spawnable",
     "lightLevelMarkers": "square",
@@ -230,6 +219,7 @@
     "dateFormatType": "regular",
     "dateFormatString": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
+    "displayEndClock": false,
     "durationFormatType": "pretty",
     "durationFormatString": "HH:mm:ss.SSS",
     "fontScale": 0.75,
@@ -255,13 +245,7 @@
     "textPosY": 4,
     "timeDayDivisor": 24000,
     "timeTotalDivisor": 24000,
-    "inventoryPreview": {
-      "keys": "LEFT_ALT"
-    },
     "inventoryPreviewEnabled": false,
-    "inventoryPreviewToggleScreen": {
-      "keys": "BUTTON_3"
-    },
     "inventoryPreviewVillagerBGColor": false,
     "villagerConversionTicks": true,
     "villagerOfferEnchantmentBooks": true,
@@ -270,6 +254,29 @@
     "villagerOfferLowestPriceNearby": false,
     "villagerOfferPriceThreshold": 1.0,
     "villagerTextScale": 2.0
+  },
+  "GenericHotkeys": {
+    "openConfigGui": {
+      "keys": "H,C"
+    },
+    "shapeEditor": {
+      "keys": ""
+    },
+    "inventoryPreview": {
+      "keys": "LEFT_ALT"
+    },
+    "inventoryPreviewToggleScreen": {
+      "keys": "MOUSE_MIDDLE"
+    },
+    "moveShapeToPlayer": {
+      "keys": ""
+    },
+    "requiredKey": {
+      "keys": ""
+    },
+    "setDistanceReferencePoint": {
+      "keys": ""
+    }
   },
   "InfoTypeToggles": {
     "infoFPS": true,
@@ -288,6 +295,7 @@
     "infoRotationPitch": false,
     "infoBlockBreakSpeed": false,
     "infoPlayerExperience": false,
+    "infoSneaking": false,
     "infoSpeed": false,
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
@@ -383,6 +391,9 @@
       "keys": ""
     },
     "infoPlayerExperience": {
+      "keys": ""
+    },
+    "infoSneaking": {
       "keys": ""
     },
     "infoSpeed": {
@@ -712,6 +723,8 @@
     }
   },
   "StructureColors": {
+    "Abandoned Camp Main": "#360088FF",
+    "Abandoned Camp Components": "#360088FF",
     "Ancient City Main": "#30D10AE6",
     "Ancient City Components": "#30D506C9",
     "Bastion Remnant Main": "#302171F5",
@@ -758,6 +771,9 @@
     "Unknown Components": "#50FFFFFF"
   },
   "StructureHotkeys": {
+    "Toggle Abandoned Camp": {
+      "keys": ""
+    },
     "Toggle Ancient City": {
       "keys": ""
     },
@@ -826,6 +842,7 @@
     }
   },
   "StructureToggles": {
+    "Abandoned Camp": false,
     "Ancient City": false,
     "Bastion Remnant": false,
     "Buried Treasure": false,

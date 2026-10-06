@@ -70,7 +70,12 @@
     "rememberFlexibleFromClick": true,
     "serverNbtRequestRate": 2,
     "shulkerDisplayBgColor": true,
-    "shulkerDisplayEnderChest": false,
+    "shulkerDisplayEnderChest": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "shulkerDisplayRequireShift": true,
     "slotSyncWorkaround": true,
     "slotSyncWorkaroundAlways": false,
@@ -232,7 +237,9 @@
     "zoomFov": 20.0,
     "zoomFovDifference": 1.0,
     "zoomFovDifferenceCtrl": 5.0,
-    "zoomResetFovOnActivate": true
+    "zoomResetFovOnActivate": true,
+    "zoomMinimumFov": 0.0,
+    "zoomMaximumFov": 360.0
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
@@ -975,7 +982,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": false,
+    "tweakGammaOverride": true,
     "tweakHandRestock": true,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
@@ -995,6 +1002,7 @@
     "tweakPeriodicHoldUse": false,
     "tweakPermanentSneak": false,
     "tweakPermanentSprint": false,
+    "tweakPermanentSwim": false,
     "tweakPlacementGrid": false,
     "tweakPlacementLimit": false,
     "tweakPlacementRestriction": false,
@@ -1021,7 +1029,7 @@
     "tweakSpectatorTeleport": false,
     "tweakSpyglassUsesTweakZoom": false,
     "tweakStructureBlockLimit": false,
-    "tweakSwapAlmostBrokenTools": true,
+    "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
     "tweakToolSwitch": false,
     "tweakWaterVisibility": false,
@@ -1190,9 +1198,12 @@
       "keys": ""
     },
     "tweakPermanentSneak": {
-      "keys": "LEFT_CONTROL,KP_SUBTRACT"
+      "keys": "LEFT_CONTROL,KP_MINUS"
     },
     "tweakPermanentSprint": {
+      "keys": ""
+    },
+    "tweakPermanentSwim": {
       "keys": ""
     },
     "tweakPlacementGrid": {
