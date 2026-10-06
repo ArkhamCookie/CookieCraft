@@ -29,10 +29,6 @@ file = "config/yosbr/config/bobby.conf"
 hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "3c9351337f023bf6add1f346eed73ae82408753f75b32b934a891ab72b00b10b"
-
-[[files]]
 file = "config/yosbr/config/extremesoundmuffler.json5"
 hash = "1577b392b300c36df717d3f874b7f1f2708de6aad56fdffabf5b44b2ee4548e1"
 
