@@ -3,11 +3,11 @@ filename = "low-fire-hud.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vUMhJms3/versions/NlbkaDZB/low-fire-hud.zip"
+url = "https://cdn.modrinth.com/data/vUMhJms3/versions/zHevPUJv/low-fire-hud.zip"
 hash-format = "sha512"
-hash = "aa4fb885ffca5eae061a0d1a4e44b768bf69b1c1f0eabf82f85a599b7a0dab0eaf0f90c7c5df14db710232beb7f3593f065c966aba90c0ce801c0e738c300db7"
+hash = "5c4e73886dcd8b15dd885852f05c4f6dca4511974352acb9ca974ddd13a3193c7d927fce2cd871fc7b4439750f5bdf36f59e03706e6fc519fe15ebc08442a1ff"
 
 [update]
 [update.modrinth]
 mod-id = "vUMhJms3"
-version = "NlbkaDZB"
+version = "zHevPUJv"
