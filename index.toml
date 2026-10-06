@@ -116,11 +116,6 @@ hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
-file = "mods/extreme_sound_muffler.pw.toml"
-hash = "0638709fd7e5e26f807f39251c9cbe8b400e0542775a5e26a5aef395a3d3c07b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
@@ -198,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "2185ca4b882c058d981f8e5fa79e48bafbd747f185cd474adc731a39599e73c0"
 metafile = true
 
 [[files]]
