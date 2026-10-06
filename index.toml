@@ -96,11 +96,6 @@ hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "84d6a2b87db74408c8fd2fd15792bad981ffbab43e1ee96b79aabded2604141c"
-metafile = true
-
-[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "0638709fd7e5e26f807f39251c9cbe8b400e0542775a5e26a5aef395a3d3c07b"
 metafile = true
