@@ -10,7 +10,7 @@
   "hideSystemMessageIndicators": true,
   "hideWarningToast": true,
   "hideSigningRequestMessage": false,
-  "alwaysHideReportButton": false,
+  "alwaysHideReportButton": true,
   "skipRealmsWarning": true,
   "disableTelemetry": true,
   "removeTelemetryButton": true,
