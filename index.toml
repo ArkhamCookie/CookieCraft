@@ -29,10 +29,6 @@ file = "config/yosbr/config/bobby.conf"
 hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
-file = "config/yosbr/config/extremesoundmuffler.json5"
-hash = "29e3ff55cb26d382121842f60e666b5c940ae596bb6b49859040b00966edd7bb"
-
-[[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "4216c648dd214ff8db8257f4294a0530e71aa5aa64f5576637c400be366e2637"
 
